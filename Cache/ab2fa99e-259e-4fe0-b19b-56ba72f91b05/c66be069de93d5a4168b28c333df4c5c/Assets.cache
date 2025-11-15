@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    458a74ec-1e9f-4d7b-a6bd-3a2fcb2c6bf8: ab2fa99e-259e-4fe0-b19b-56ba72f91b05/c66be069de93d5a4168b28c333df4c5c/Data/r_button.png
+  Assets:
+    - !<FileTexture/458a74ec-1e9f-4d7b-a6bd-3a2fcb2c6bf8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 436
+        Height: 139
+  SourceHash: c66be069de93d5a4168b28c333df4c5c
+  FileHash: b96f53fc061e298f15d6431f1fd42eb9
+  NativePackageItems:
+    []

@@ -1,0 +1,29 @@
+- !<NativePackageDescriptor/419f0ab4-a076-4bfb-b490-9b37a015f50e>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 1
+    build: 25102815
+    type: Unset
+  Description: "Wired Parameters\n\nDescription:\n\nThe Custom Component  connects objects properties without scripting so that adjusting one parameter changes the other automatically.\n\nUsage:\n\nAttach the Custom Component to a SceneObject, choose the desired input and output modes, configure the required settings for each mode and specify the input start and end values."
+  SvgIcon: "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"6\" cy=\"19\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<circle cx=\"20\" cy=\"6\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<circle cx=\"25\" cy=\"25\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<path d=\"M10.0625 14.25L15.5 10M11.5 21L19 23.5M23.1053 19L21.5 12\" stroke=\"#D0DAE6\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n</svg>\n"
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: 14d46cea-c88b-49ce-a485-e0517b72f49a
+  ComponentUid: 4c9582c3-6081-4d54-9cde-845e6a55d561
+  Instantiable: !<reference> 7c3ebafa-ffd3-4b8f-9482-c63f0ba9e50e
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure/20292618-a3ac-45ce-b37e-0a371d820f5c>
+    Name: Wired Parameters
+    AssetId: 39lfMM6KQJBwDkMHo9roQB
+    Hash: 87defc10a5b52983d980a7f4cb0fd6b0
+    Version:
+      major: -1
+      minor: -1
+      patch: -1
+      build: 0
+  coreVersion: 330
+  clientVersion: 13.6000004
+  PackagePolicy: CannotBeUnpacked

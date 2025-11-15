@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    112bbcee-9184-469a-a657-ed656f5e16dd: 008c9f7d-87e5-4d51-9f62-165a9bb97798/141c84faad7a34185e595cda644a6ba9/Data/c_button.png
+  Assets:
+    - !<FileTexture/112bbcee-9184-469a-a657-ed656f5e16dd>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 126
+        Height: 126
+  SourceHash: 141c84faad7a34185e595cda644a6ba9
+  FileHash: 239a942a56ff451ff02da879d7076fb2
+  NativePackageItems:
+    []

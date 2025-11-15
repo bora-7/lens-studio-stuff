@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e8e0ff77-e929-4798-97a1-11c11dcb7036: 04f6cbef-a285-446f-b679-de4dd55818d0/11e8f044a754b07ce6a6d9a311de1af1/Data/Sphere_0000.png
+  Assets:
+    - !<FileTexture/e8e0ff77-e929-4798-97a1-11c11dcb7036>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 11e8f044a754b07ce6a6d9a311de1af1
+  FileHash: a2ed0ac0807ef655047151ccb37864fd
+  NativePackageItems:
+    []

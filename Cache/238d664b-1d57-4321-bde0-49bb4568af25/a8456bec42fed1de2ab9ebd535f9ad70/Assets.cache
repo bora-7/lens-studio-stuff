@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6b18a54c-91cc-4dff-8fc8-d269263220a7: 238d664b-1d57-4321-bde0-49bb4568af25/a8456bec42fed1de2ab9ebd535f9ad70/Data/U_Turn_Mesh.mesh
+  Assets:
+    - !<FileMesh/6b18a54c-91cc-4dff-8fc8-d269263220a7>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 4
+        Vertices: 8
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 7.206944, y: 0.753848, z: 7.206944}
+  SourceHash: a8456bec42fed1de2ab9ebd535f9ad70
+  FileHash: a520fb131e20d5e93bdae05d7b959d67
+  NativePackageItems:
+    []

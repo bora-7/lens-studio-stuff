@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    6a4b9235-f020-49a8-bf97-11d6ccdbc36a: 5c9f9afa-919b-4cbe-ac68-0d9f4446444a/4de60172fbfd2d530deed761206bb0b6/Data/new_icon.png
+  Assets:
+    - !<FileTexture/6a4b9235-f020-49a8-bf97-11d6ccdbc36a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 310
+        Height: 310
+  SourceHash: 4de60172fbfd2d530deed761206bb0b6
+  FileHash: 385a7a1a250d596db31a1f20af8932c1
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    4eec2493-4855-47bb-a6f2-5e33bf74e714: 44fcf85e-b3f3-496a-8f73-29ed65727259/794bae77ad54a7bb6035aced9fe4477b/Data/Holo_Starting_Line.mesh
+  Assets:
+    - !<FileMesh/4eec2493-4855-47bb-a6f2-5e33bf74e714>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 2
+        Vertices: 4
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 22.173136, y: 0.000000, z: 10.019496}
+  SourceHash: 794bae77ad54a7bb6035aced9fe4477b
+  FileHash: d30123b0d9281e22c0657cfa029c0df9
+  NativePackageItems:
+    []

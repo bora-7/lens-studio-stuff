@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    227de02f-b479-45de-a6f5-3f792dc2c12c: f3848b03-ed43-4c2e-9d78-1c42adc9f3c1/d99d9811b6428c6e983481d80a4c527f/Data/279284-Vibrant-Game-Bell-Twinkle-Positive-Touch-1.1.mp3
+  Assets:
+    - !<FileAudioTrack/227de02f-b479-45de-a6f5-3f792dc2c12c>
+      PackagePath: ""
+  SourceHash: d99d9811b6428c6e983481d80a4c527f
+  FileHash: 8fbf5cec724631f63246fa63ac28fd8e
+  NativePackageItems:
+    []

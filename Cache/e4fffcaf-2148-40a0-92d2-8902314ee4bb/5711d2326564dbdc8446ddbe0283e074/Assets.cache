@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    4abdbbff-5710-41fa-9efa-ad7aabc702b7: e4fffcaf-2148-40a0-92d2-8902314ee4bb/5711d2326564dbdc8446ddbe0283e074/Data/279294-Vibrant-Game-Modern-Retro-Touch-Item-1.1.mp3
+  Assets:
+    - !<FileAudioTrack/4abdbbff-5710-41fa-9efa-ad7aabc702b7>
+      PackagePath: ""
+  SourceHash: 5711d2326564dbdc8446ddbe0283e074
+  FileHash: 564336a467cd5e3e0c02105ade789259
+  NativePackageItems:
+    []

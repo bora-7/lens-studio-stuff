@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    b911ce3d-822a-4fcc-9a04-3695710f7c9d: 2ee76c82-443c-4a0b-ad4c-9d4732cb3022/932cf2565d5a373b72943fb632dcc60f/Data/279285-Vibrant-Game-Bling-1.1.mp3
+  Assets:
+    - !<FileAudioTrack/b911ce3d-822a-4fcc-9a04-3695710f7c9d>
+      PackagePath: ""
+  SourceHash: 932cf2565d5a373b72943fb632dcc60f
+  FileHash: f0e87e447016acea93d1af4b4a6c48ac
+  NativePackageItems:
+    []

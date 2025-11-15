@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    dd24b72d-6a9b-4d94-9938-06d959af1360: 38698563-f362-4cd2-8592-a50940873fdf/3290f86d58462d72c10696b83d1ea569/Data/half_circle.png
+  Assets:
+    - !<FileTexture/dd24b72d-6a9b-4d94-9938-06d959af1360>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 3290f86d58462d72c10696b83d1ea569
+  FileHash: b8dbce9e59dc444ebf0c6a0f2a139d32
+  NativePackageItems:
+    []

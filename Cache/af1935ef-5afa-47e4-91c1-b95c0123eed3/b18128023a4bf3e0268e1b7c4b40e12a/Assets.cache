@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c7912b5f-93b6-4825-ba7d-672829798f65: af1935ef-5afa-47e4-91c1-b95c0123eed3/b18128023a4bf3e0268e1b7c4b40e12a/Data/Track_Opacity_Line.png
+  Assets:
+    - !<FileTexture/c7912b5f-93b6-4825-ba7d-672829798f65>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: b18128023a4bf3e0268e1b7c4b40e12a
+  FileHash: 42c9801d50ce0ac0109a14fb5f8b0587
+  NativePackageItems:
+    []

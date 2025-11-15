@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c7cf2638-f1d5-4a0c-a07e-8ea35543d423: 3781e6e4-09a9-4037-be69-5dd2098645d4/3902b9e853ab7d7a6e55dbe7d72fa05a/Data/iconX.png
+  Assets:
+    - !<FileTexture/c7cf2638-f1d5-4a0c-a07e-8ea35543d423>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 80
+        Height: 80
+  SourceHash: 3902b9e853ab7d7a6e55dbe7d72fa05a
+  FileHash: b7eafcd2dd0eaa963ec22e7afe035b6e
+  NativePackageItems:
+    []

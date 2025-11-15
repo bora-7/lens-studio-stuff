@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d5b0902b-ce09-40e8-91fe-f08a29b4a867: 44f399d3-b9a5-4bf9-8fbe-8aae4293813c/54608e201607425dcdc1f8d78b86f695/Data/AvenirNextLTPro-Bold.otf
+  Assets:
+    - !<Font/d5b0902b-ce09-40e8-91fe-f08a29b4a867>
+      PackagePath: ""
+  SourceHash: 54608e201607425dcdc1f8d78b86f695
+  FileHash: 497eec44ff35535664540fa99f2553de
+  NativePackageItems:
+    []

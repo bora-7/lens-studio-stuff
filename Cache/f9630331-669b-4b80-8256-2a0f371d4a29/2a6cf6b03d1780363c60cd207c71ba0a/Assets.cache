@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e3e96331-30b5-4fb8-aa51-c3fe12d4ffbf: f9630331-669b-4b80-8256-2a0f371d4a29/2a6cf6b03d1780363c60cd207c71ba0a/Data/Holo_Starting_Line_V3.png
+  Assets:
+    - !<FileTexture/e3e96331-30b5-4fb8-aa51-c3fe12d4ffbf>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 2a6cf6b03d1780363c60cd207c71ba0a
+  FileHash: c1c4f6a6d7b14aad590913b6926a9cf3
+  NativePackageItems:
+    []

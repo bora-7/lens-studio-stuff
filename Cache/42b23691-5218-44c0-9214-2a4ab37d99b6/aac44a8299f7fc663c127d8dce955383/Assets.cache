@@ -1,0 +1,2623 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: aac44a8299f7fc663c127d8dce955383
+  FileHash: 86cc9dcd0096e058a5fc1a7d2b94fb87
+  NativePackageItems:
+    - !<own> 53e13514-58f8-8eab-4ece-81ef2111cf9e
+    - !<own> 264ce9c9-118e-9f79-abbf-f9806ac9c150
+    - !<own> fd12fdb6-684e-c358-fb36-283e90731df2
+    - !<own> a2040dbf-5ae6-b2c0-9ba1-4df3bca65c9d
+    - !<own> 54ea14ef-a460-53f6-0923-fb23570e6545
+    - !<own> a0405160-4a20-ff21-e84a-485d9fcb9307
+    - !<own> 920c88ca-be37-0d88-2463-753cfa2d310d
+    - !<own> af452193-2507-19d2-02f5-0b7c579d9a6c
+    - !<own> 3211fa1a-de06-31ee-7984-319dde4d6fff
+    - !<own> 13bd9b1b-2983-f626-4063-44aaec1fd024
+    - !<own> 077cb421-b439-da8c-c661-2d92bf9f61fb
+    - !<own> f2113a99-dff2-1f10-6a91-a8d460a31a13
+    - !<own> edf8d8fc-b925-9191-e2e9-e45dcf0572d6
+    - !<own> 921f1e49-8339-d475-ca22-7b10625fc31b
+    - !<own> d2416931-c7fd-30a2-7e52-1936c5e7b3ac
+    - !<own> 39ec7fcf-f8cd-a319-ef49-ae0404c9c5b9
+    - !<own> 1a30ea29-4eda-5421-e04f-0d0fab95fc30
+    - !<own> a020a26c-0af4-9725-948c-e03374395f12
+    - !<own> f7719178-9f67-dc65-de37-4765fdf27d6c
+    - !<own> 8c6230fb-72fd-36a8-08ee-9a6d1fd252ba
+    - !<own> 394d3bfe-4d28-e50f-a93f-e161c07be036
+    - !<own> 76887769-f92f-b03a-1f96-c4a5bf213675
+    - !<own> 403c2056-d91d-8cc4-90d6-5cfe9f575b95
+    - !<own> 3c2f319a-785a-468d-793d-9aaa9f505105
+    - !<own> cad8c49a-a9d3-d4e3-0f7e-04466330cf44
+    - !<own> 91b2e8d4-6803-f9be-3fa5-4d07de702730
+    - !<own> 6b8282a5-76a5-f94f-6cd0-826754ee79db
+    - !<own> d7139e0b-493b-2e48-0b4a-3933532e7fb4
+    - !<own> 28e357c1-8db3-670d-0e20-dbd5b7aa7390
+    - !<own> 1dd3a8ff-99e7-1551-1acc-f35cca4861bd
+    - !<own> 11de815f-1c5e-93a7-0ab0-dc8312c6ce4f
+- !<TypeScriptAssetData/02125049-be90-42bd-85f8-e3b285515d91>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1970fa67-7b32-46b2-bb86-305dd8704ffb
+  ExportUid: 000617e3-14d6-a506-0000-0000002f3e8b
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/03a6d5fb-ca68-442a-6cf8-36dc171e7e5d>
+  PrefabRemaps:
+    []
+  Name: RightHandIndex3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001872, y: 0.038873, z: 0.004184}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<AssetImportMetadata/077cb421-b439-da8c-c661-2d92bf9f61fb>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5def5c80-554f-418e-b422-80d246dff7d1
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5def5c80-554f-418e-b422-80d246dff7d1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> d815b47e-5352-4264-addd-7f070125bbd1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/0fa14fda-a851-4201-607b-17f15381fe06>
+  PrefabRemaps:
+    []
+  Name: Neck
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.146573, z: -0.000000}
+    Rotation: {x: 7.350511, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e3939253-b16c-4091-7c92-28cf262069ff
+  Components:
+    []
+- !<AssetImportMetadata/11de815f-1c5e-93a7-0ab0-dc8312c6ce4f>
+  ImportedAssetIds:
+    BodyTracking3DAsset: !<reference> a50d8fe4-b026-4143-b593-25e59fea4dc2
+  ImporterName: BodyTracking3DAssetImporter
+  PrimaryAsset: !<reference> a50d8fe4-b026-4143-b593-25e59fea4dc2
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/13bd9b1b-2983-f626-4063-44aaec1fd024>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 2a776123-06d6-470c-95cc-4581e35c644f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 2a776123-06d6-470c-95cc-4581e35c644f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 98540bc5-2400-4081-b46b-8b81d9fac0bb
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1a30ea29-4eda-5421-e04f-0d0fab95fc30>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c88ba4a6-3387-4986-91ad-13c18668ce0a
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c88ba4a6-3387-4986-91ad-13c18668ce0a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5e004118-7609-407f-8fc8-1a4ae8c2889c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/1a792b0d-548a-4a31-5085-59d9db664534>
+  PrefabRemaps:
+    []
+  Name: RightShoulder
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.064935, y: 0.128952, z: -0.002234}
+    Rotation: {x: -74.720497, y: -88.045654, z: 179.758118}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fae0b65c-8626-4d0d-6b2c-0afe1e2638c2
+  Components:
+    []
+- !<TypeScriptAssetData/1b6851a7-e8b9-4465-9cb8-a57895fb4e6d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 80f5aa33-8d82-4c2f-9858-8238899112f9
+  ExportUid: 000617e3-14d6-9fb0-0000-0000002f3dd4
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/1c931aac-0787-4878-7095-eb49a03d87b3>
+  PrefabRemaps:
+    []
+  Name: LeftToeBase
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.148786, z: 0.000000}
+    Rotation: {x: 32.533405, y: -8.300250, z: 0.000336}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 65789637-83e1-4461-710d-034bac246fe1
+  Components:
+    []
+- !<AssetImportMetadata/1dd3a8ff-99e7-1551-1acc-f35cca4861bd>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 4487f159-dc33-4cab-8a4e-c618686865ba
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 4487f159-dc33-4cab-8a4e-c618686865ba
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 7286a3e5-0a14-45dd-baf4-6e6afec60ee8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/222af0a0-3e0a-41ed-9254-6008bfec2416>
+  SvgIcon: |
+    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="6" cy="19" r="3" stroke="#D0DAE6" stroke-width="2"/>
+    <circle cx="20" cy="6" r="3" stroke="#D0DAE6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="3" stroke="#D0DAE6" stroke-width="2"/>
+    <path d="M10.0625 14.25L15.5 10M11.5 21L19 23.5M23.1053 19L21.5 12" stroke="#D0DAE6" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+
+  SetupScript:
+    code: ""
+  Description: |-
+    Wired Parameters
+    
+    Description:
+    
+    The Custom Component  connects objects properties without scripting so that adjusting one parameter changes the other automatically.
+    
+    Usage:
+    
+    Attach the Custom Component to a SceneObject, choose the desired input and output modes, configure the required settings for each mode and specify the input start and end values.
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4c9582c3-6081-4d54-9cde-845e6a55d561
+  ExportUid: 14d46cea-c88b-49ce-a485-e0517b72f49a
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bodyPrefab: true
+    editDebugSettings: false
+    fromValue: false
+    inputAbsoluteRotationCoef: false
+    inputAbsoluteRotationSO: false
+    inputAsset: false
+    inputAssetProperty: false
+    inputBlendshapeMesh: false
+    inputBlendshapeName: false
+    inputBodyLandmark: false
+    inputBodyLandmarkFrom: false
+    inputBodyLandmarkTo: false
+    inputBodyTransformAxis: false
+    inputBodyTransformProperty: false
+    inputComponent: false
+    inputComponentProperty: false
+    inputDistanceSOFrom: false
+    inputDistanceSOTo: false
+    inputFaceExpressionName: false
+    inputFaceMesh: false
+    inputHeadIndex: false
+    inputHeadLandmark: false
+    inputHeadTransformAxis: false
+    inputMode: false
+    inputSO: false
+    inputTransformAxis: false
+    inputTransformProperty: false
+    interpolation: false
+    lerp: false
+    lerpCoef: false
+    outputAnimationMixer: false
+    outputAnimationMixerFrom: false
+    outputAnimationMixerLayer: false
+    outputAnimationMixerTo: false
+    outputAsset: false
+    outputAssetFloatFrom: false
+    outputAssetFloatTo: false
+    outputAssetProperty: false
+    outputAssetRGBAFrom: false
+    outputAssetRGBATo: false
+    outputAssetRGBFrom: false
+    outputAssetRGBTo: false
+    outputAssetValue: false
+    outputAssetVec2From: false
+    outputAssetVec2To: false
+    outputAssetVec3From: false
+    outputAssetVec3To: false
+    outputAtlasFrom: false
+    outputAtlasTexture: false
+    outputAtlasTo: false
+    outputAtlasYoyo: false
+    outputBlendshapeFrom: false
+    outputBlendshapeMesh: false
+    outputBlendshapeName: false
+    outputBlendshapeTo: false
+    outputComponent: false
+    outputComponentFloatFrom: false
+    outputComponentFloatTo: false
+    outputComponentProperty: false
+    outputComponentRGBAFrom: false
+    outputComponentRGBATo: false
+    outputComponentRGBFrom: false
+    outputComponentRGBTo: false
+    outputComponentValue: false
+    outputComponentVec2From: false
+    outputComponentVec2To: false
+    outputComponentVec3From: false
+    outputComponentVec3To: false
+    outputMode: false
+    outputSO: false
+    outputTransformAxis: false
+    outputTransformAxisFrom: false
+    outputTransformAxisTo: false
+    outputTransformProperty: false
+    outputTransformValue: false
+    outputTransformVecFrom: false
+    outputTransformVecTo: false
+    printDebugStatements: false
+    printWarningStatements: false
+    toValue: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - editDebugSettings: false
+      printDebugStatements: false
+      printWarningStatements: true
+      inputMode: 0
+      inputSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputTransformProperty: 0
+      inputTransformAxis: 0
+      inputAsset: !<reference.Asset> 00000000-0000-0000-0000-000000000000
+      inputAssetProperty: ""
+      inputComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      inputComponentProperty: ""
+      inputBodyLandmark: 0
+      inputBodyTransformProperty: 0
+      inputBodyTransformAxis: 0
+      inputHeadIndex: 0
+      inputHeadLandmark: 0
+      inputHeadTransformAxis: 0
+      inputDistanceSOFrom: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputDistanceSOTo: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputAbsoluteRotationSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputAbsoluteRotationCoef: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      inputBlendshapeMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      inputBlendshapeName: ""
+      inputFaceMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      inputFaceExpressionName: EyeBlinkLeft
+      inputBodyLandmarkFrom: 0
+      inputBodyLandmarkTo: 0
+      fromValue: !<float> 0.000000
+      toValue: !<float> 1.000000
+      interpolation: Linear
+      lerp: false
+      lerpCoef: !<float> 0.000000
+      outputMode: 0
+      outputSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      outputTransformProperty: 0
+      outputTransformValue: 0
+      outputTransformAxis: 0
+      outputTransformAxisFrom: !<float> 0.000000
+      outputTransformAxisTo: !<float> 0.000000
+      outputTransformVecFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputTransformVecTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAsset: !<reference.Asset> 00000000-0000-0000-0000-000000000000
+      outputAssetProperty: ""
+      outputAssetValue: 0
+      outputAssetFloatFrom: !<float> 0.000000
+      outputAssetFloatTo: !<float> 0.000000
+      outputAssetVec2From: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputAssetVec2To: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputAssetVec3From: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetVec3To: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetRGBAFrom: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputAssetRGBATo: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputAssetRGBFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetRGBTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      outputComponentProperty: ""
+      outputComponentValue: 0
+      outputComponentFloatFrom: !<float> 0.000000
+      outputComponentFloatTo: !<float> 0.000000
+      outputComponentVec2From: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputComponentVec2To: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputComponentVec3From: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentVec3To: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentRGBAFrom: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputComponentRGBATo: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputComponentRGBFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentRGBTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputBlendshapeMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      outputBlendshapeName: ""
+      outputBlendshapeFrom: !<float> 0.000000
+      outputBlendshapeTo: !<float> 0.000000
+      outputAtlasTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      outputAtlasYoyo: false
+      outputAtlasFrom: 0
+      outputAtlasTo: 0
+      outputAnimationMixer: !<reference.AnimationMixer> 00000000-0000-0000-0000-000000000000
+      outputAnimationMixerLayer: ""
+      outputAnimationMixerFrom: !<float> 0.000000
+      outputAnimationMixerTo: !<float> 0.000000
+      bodyPrefab: !<reference.ObjectPrefab> 4487f159-dc33-4cab-8a4e-c618686865ba
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input bool editDebugSettings
+    - '// @ui {"widget":"group_start", "label":"Debug Statements", "showIf":"editDebugSettings"}'
+    - '// @input bool printDebugStatements = "false" {"label":"Print Info"}'
+    - '// @input bool printWarningStatements = "true" {"label":"Print Warnings"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input int inputMode = "0" {"widget":"combobox", "values":[{"label":"Transform", "value":0}, {"label":"Asset", "value":1}, {"label":"Component", "value":2}, {"label":"Body Tracking Landmark", "value":3}, {"label":"Head Tracking Landmark", "value":4}, {"label":"Distance Between Scene Objects", "value":5}, {"label":"Absolute Rotation", "value":6}, {"label":"Blendshape", "value":7}, {"label":"Face Expression", "value":8}, {"label":"Distance Body Mesh", "value":9}]}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":0}'
+    - '// @input SceneObject inputSO {"label":"Transform"}'
+    - '// @input int inputTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}'
+    - '// @input int inputTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}]}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":1}'
+    - '// @input Asset.Asset inputAsset {"label":"Asset"}'
+    - '// @input string inputAssetProperty {"label":"Property Name"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":2}'
+    - '// @input Component.Component inputComponent {"label":"Component"}'
+    - '// @input string inputComponentProperty {"label":"Property Name"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":3}'
+    - '// @input int inputBodyLandmark = "0" {"label":"Landmark", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}'
+    - '// @input int inputBodyTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}'
+    - '// @input int inputBodyTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}]}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":4}'
+    - '// @input int inputHeadIndex {"label":"Face Index"}'
+    - '// @input int inputHeadLandmark {"label":"Landmark Index", "widget":"spinbox", "min":0, "max":74, "step":1}'
+    - '// @input int inputHeadTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}]}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":5}'
+    - '// @input SceneObject inputDistanceSOFrom {"label":"Object"}'
+    - '// @input SceneObject inputDistanceSOTo {"label":"Object"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":6}'
+    - '// @input SceneObject inputAbsoluteRotationSO {"label":"Object"}'
+    - '// @input vec3 inputAbsoluteRotationCoef = "{1.0, 1.0, 1.0}" {"label":"Coefficients"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":7}'
+    - '// @input Component.RenderMeshVisual inputBlendshapeMesh {"label":"Mesh"}'
+    - '// @input string inputBlendshapeName {"label":"Blendshape Name"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":8}'
+    - '// @input Component.RenderMeshVisual inputFaceMesh {"label":"Face Mesh"}'
+    - '// @input string inputFaceExpressionName = "EyeBlinkLeft" {"label":"Expression", "widget":"combobox", "values":[{"label":"EyeBlinkLeft", "value":"EyeBlinkLeft"}, {"label":"EyeBlinkRight", "value":"EyeBlinkRight"}, {"label":"EyeSquintLeft", "value":"EyeSquintLeft"}, {"label":"EyeSquintRight", "value":"EyeSquintRight"}, {"label":"EyeDownLeft", "value":"EyeDownLeft"}, {"label":"EyeDownRight", "value":"EyeDownRight"}, {"label":"EyeInLeft", "value":"EyeInLeft"}, {"label":"EyeInRight", "value":"EyeInRight"}, {"label":"EyeOpenLeft", "value":"EyeOpenLeft"}, {"label":"EyeOpenRight", "value":"EyeOpenRight"}, {"label":"EyeOutLeft", "value":"EyeOutLeft"}, {"label":"EyeOutRight", "value":"EyeOutRight"}, {"label":"EyeUpLeft", "value":"EyeUpLeft"}, {"label":"EyeUpRight", "value":"EyeUpRight"}, {"label":"BrowsDownLeft", "value":"BrowsDownLeft"}, {"label":"BrowsDownRight", "value":"BrowsDownRight"}, {"label":"BrowsUpCenter", "value":"BrowsUpCenter"}, {"label":"BrowsUpLeft", "value":"BrowsUpLeft"}, {"label":"BrowsUpRight", "value":"BrowsUpRight"}, {"label":"JawForward", "value":"JawForward"}, {"label":"JawLeft", "value":"JawLeft"}, {"label":"JawOpen", "value":"JawOpen"}, {"label":"JawRight", "value":"JawRight"}, {"label":"MouthLeft", "value":"MouthLeft"}, {"label":"MouthRight", "value":"MouthRight"}, {"label":"MouthFrownLeft", "value":"MouthFrownLeft"}, {"label":"MouthFrownRight", "value":"MouthFrownRight"}, {"label":"MouthSmileLeft", "value":"MouthSmileLeft"}, {"label":"MouthSmileRight", "value":"MouthSmileRight"}, {"label":"MouthDimpleLeft", "value":"MouthDimpleLeft"}, {"label":"MouthDimpleRight", "value":"MouthDimpleRight"}, {"label":"MouthUpLeft", "value":"MouthUpLeft"}, {"label":"MouthUpRight", "value":"MouthUpRight"}, {"label":"UpperLipClose", "value":"UpperLipClose"}, {"label":"LowerLipClose", "value":"LowerLipClose"}, {"label":"UpperLipUpLeft", "value":"UpperLipUpLeft"}, {"label":"UpperLipUpRight", "value":"UpperLipUpRight"}, {"label":"LowerLipDownLeft", "value":"LowerLipDownLeft"}, {"label":"LowerLipDownRight", "value":"LowerLipDownRight"}, {"label":"LipsFunnel", "value":"LipsFunnel"}, {"label":"LipsPucker", "value":"LipsPucker"}, {"label":"LowerLipRaise", "value":"LowerLipRaise"}, {"label":"UpperLipRaise", "value":"UpperLipRaise"}, {"label":"Puff", "value":"Puff"}, {"label":"CheekSquintLeft", "value":"CheekSquintLeft"}, {"label":"CheekSquintRight", "value":"CheekSquintRight"}, {"label":"SneerLeft", "value":"SneerLeft"}, {"label":"SneerRight", "value":"SneerRight"}, {"label":"MouthStretchLeft", "value":"MouthStretchLeft"}, {"label":"MouthStretchRight", "value":"MouthStretchRight"}, {"label":"MouthClose", "value":"MouthClose"}]}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":9}'
+    - '// @input int inputBodyLandmarkFrom = "0" {"label":"Landmark From", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}'
+    - '// @input int inputBodyLandmarkTo = "0" {"label":"Landmark To", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input float fromValue {"label":"Input Start Value"}'
+    - '// @input float toValue = "1.0" {"label":"Input End Value"}'
+    - '// @input string interpolation = "Linear" {"widget":"combobox", "values":[{"label":"Linear", "value":"Linear"}, {"label":"Sinusoidal In", "value":"SineIn"}, {"label":"Sinusoidal Out", "value":"SineOut"}, {"label":"Sinusoidal In Out", "value":"SineInOut"}, {"label":"Quadratic In", "value":"QuadIn"}, {"label":"Quadratic Out", "value":"QuadOut"}, {"label":"Quadratic In Out", "value":"QuadInOut"}, {"label":"Exponential In", "value":"ExpoIn"}, {"label":"Exponential Out", "value":"ExpoOut"}, {"label":"Exponential In Out", "value":"ExpoInOut"}, {"label":"Elastic In", "value":"ElasticIn"}, {"label":"Elastic Out", "value":"ElasticOut"}, {"label":"Elastic In Out", "value":"ElasticInOut"}, {"label":"Bounce In", "value":"BounceIn"}, {"label":"Bounce Out", "value":"BounceOut"}, {"label":"Bounce In Out", "value":"BounceInOut"}, {"label":"Back In", "value":"BackIn"}, {"label":"Back Out", "value":"BackOut"}, {"label":"Back In Out", "value":"BackInOut"}]}'
+    - // @input bool lerp
+    - '// @input float lerpCoef {"label":"Lerp Coefficient", "widget":"slider", "min":0.01, "max":1, "step":0.01, "showIf":"lerp"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input int outputMode = "0" {"widget":"combobox", "values":[{"label":"Transform", "value":0}, {"label":"Asset", "value":1}, {"label":"Component", "value":2}, {"label":"Blendshape", "value":3}, {"label":"Atlas", "value":4}, {"label":"Animation Weight", "value":5}]}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":0}'
+    - '// @input SceneObject outputSO {"label":"Transform"}'
+    - '// @input int outputTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}'
+    - '// @input int outputTransformValue = "0" {"label":"Transform Value", "widget":"combobox", "values":[{"label":"Axis", "value":0}, {"label":"Vec3", "value":1}]}'
+    - '// @input int outputTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}], "showIf":"outputTransformValue", "showIfValue":0}'
+    - '// @input float outputTransformAxisFrom {"label":"From", "showIf":"outputTransformValue", "showIfValue":0}'
+    - '// @input float outputTransformAxisTo {"label":"To", "showIf":"outputTransformValue", "showIfValue":0}'
+    - '// @input vec3 outputTransformVecFrom {"label":"From", "showIf":"outputTransformValue", "showIfValue":1}'
+    - '// @input vec3 outputTransformVecTo {"label":"To", "showIf":"outputTransformValue", "showIfValue":1}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":1}'
+    - '// @input Asset.Asset outputAsset {"label":"Asset"}'
+    - '// @input string outputAssetProperty {"label":"Property Name"}'
+    - '// @input int outputAssetValue = "0" {"label":"Type", "widget":"combobox", "values":[{"label":"Number", "value":0}, {"label":"Point 2D", "value":1}, {"label":"Point 3D", "value":2}, {"label":"Color RGBA", "value":3}, {"label":"Color RGB", "value":4}]}'
+    - '// @input float outputAssetFloatFrom {"label":"From", "showIf":"outputAssetValue", "showIfValue":0}'
+    - '// @input float outputAssetFloatTo {"label":"To", "showIf":"outputAssetValue", "showIfValue":0}'
+    - '// @input vec2 outputAssetVec2From {"label":"From", "showIf":"outputAssetValue", "showIfValue":1}'
+    - '// @input vec2 outputAssetVec2To {"label":"To", "showIf":"outputAssetValue", "showIfValue":1}'
+    - '// @input vec3 outputAssetVec3From {"label":"From", "showIf":"outputAssetValue", "showIfValue":2}'
+    - '// @input vec3 outputAssetVec3To {"label":"To", "showIf":"outputAssetValue", "showIfValue":2}'
+    - '// @input vec4 outputAssetRGBAFrom = "{1.0, 1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputAssetValue", "showIfValue":3}'
+    - '// @input vec4 outputAssetRGBATo = "{1.0, 1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputAssetValue", "showIfValue":3}'
+    - '// @input vec3 outputAssetRGBFrom = "{1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputAssetValue", "showIfValue":4}'
+    - '// @input vec3 outputAssetRGBTo = "{1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputAssetValue", "showIfValue":4}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":2}'
+    - '// @input Component.Component outputComponent {"label":"Component"}'
+    - '// @input string outputComponentProperty {"label":"Property Name"}'
+    - '// @input int outputComponentValue = "0" {"label":"Type", "widget":"combobox", "values":[{"label":"Number", "value":0}, {"label":"Point 2D", "value":1}, {"label":"Point 3D", "value":2}, {"label":"Color RGBA", "value":3}, {"label":"Color RGB", "value":4}]}'
+    - '// @input float outputComponentFloatFrom {"label":"From", "showIf":"outputComponentValue", "showIfValue":0}'
+    - '// @input float outputComponentFloatTo {"label":"To", "showIf":"outputComponentValue", "showIfValue":0}'
+    - '// @input vec2 outputComponentVec2From {"label":"From", "showIf":"outputComponentValue", "showIfValue":1}'
+    - '// @input vec2 outputComponentVec2To {"label":"To", "showIf":"outputComponentValue", "showIfValue":1}'
+    - '// @input vec3 outputComponentVec3From {"label":"From", "showIf":"outputComponentValue", "showIfValue":2}'
+    - '// @input vec3 outputComponentVec3To {"label":"To", "showIf":"outputComponentValue", "showIfValue":2}'
+    - '// @input vec4 outputComponentRGBAFrom = "{1.0, 1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputComponentValue", "showIfValue":3}'
+    - '// @input vec4 outputComponentRGBATo = "{1.0, 1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputComponentValue", "showIfValue":3}'
+    - '// @input vec3 outputComponentRGBFrom = "{1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputComponentValue", "showIfValue":4}'
+    - '// @input vec3 outputComponentRGBTo = "{1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputComponentValue", "showIfValue":4}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":3}'
+    - '// @input Component.RenderMeshVisual outputBlendshapeMesh {"label":"Mesh"}'
+    - '// @input string outputBlendshapeName {"label":"Blendshape Name"}'
+    - '// @input float outputBlendshapeFrom {"label":"From"}'
+    - '// @input float outputBlendshapeTo {"label":"To"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":4}'
+    - '// @input Asset.Texture outputAtlasTexture {"label":"Texture"}'
+    - '// @input bool outputAtlasYoyo {"label":"Yoyo"}'
+    - '// @input int outputAtlasFrom {"label":"Start Frame"}'
+    - '// @input int outputAtlasTo {"label":"End Frame"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":5}'
+    - '// @input Component.AnimationMixer outputAnimationMixer {"label":"Animation Mixer"}'
+    - '// @input string outputAnimationMixerLayer {"label":"Layer Name"}'
+    - '// @input float outputAnimationMixerFrom {"label":"Weight From"}'
+    - '// @input float outputAnimationMixerTo {"label":"Weight To"}'
+    - '// @ui {"widget":"group_end"}'
+    - // @input Asset.ObjectPrefab bodyPrefab
+- !<SceneObject/23297127-9c20-4f2e-70f2-b1468513ede8>
+  PrefabRemaps:
+    []
+  Name: RightToe_End
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.058949, z: -0.000001}
+    Rotation: {x: 88.540398, y: 7.246110, z: 172.662994}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/257907e4-6d9d-4c75-4453-db458ea7aec3>
+  PrefabRemaps:
+    []
+  Name: LeftHandRing1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.023388, y: 0.117610, z: 0.021298}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b6eeff7a-d2ac-42ff-6c8d-46bdd2df0a68
+  Components:
+    []
+- !<AssetImportMetadata/264ce9c9-118e-9f79-abbf-f9806ac9c150>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 419f0ab4-a076-4bfb-b490-9b37a015f50e
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 419f0ab4-a076-4bfb-b490-9b37a015f50e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/28e357c1-8db3-670d-0e20-dbd5b7aa7390>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 85971e24-c98d-4ddc-8cd9-241ed0b24d33
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 85971e24-c98d-4ddc-8cd9-241ed0b24d33
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b768ecba-9587-4265-a1e7-a78bce59cd87
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/310c5cf8-bbb7-4e28-5107-890be7ff9208>
+  PrefabRemaps:
+    []
+  Name: Spine
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.096912, z: -0.012502}
+    Rotation: {x: -7.350511, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7d585a4b-3e5c-4f05-798b-b62673e3d8c3
+  Components:
+    []
+- !<AssetImportMetadata/3211fa1a-de06-31ee-7984-319dde4d6fff>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 947974da-a1ad-4321-bf10-5c34da103578
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 947974da-a1ad-4321-bf10-5c34da103578
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1b6851a7-e8b9-4465-9cb8-a57895fb4e6d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/327c6f5f-e981-47ea-781a-bbfc832ada5c>
+  PrefabRemaps:
+    []
+  Name: RightHandPinky2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000787, y: 0.041177, z: 0.003026}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b8c0ce2d-7026-4284-5042-053a49227bee
+  Components:
+    []
+- !<SceneObject/32b84a96-ab97-434a-42d6-b2ee22635775>
+  PrefabRemaps:
+    []
+  Name: Hips
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 1.022720, z: 0.041666}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 310c5cf8-bbb7-4e28-5107-890be7ff9208
+    - !<own> 69e56ec8-4ba3-4979-5ecc-17a87a12cf13
+    - !<own> 925bf6f4-acbe-443e-6ee2-81a17cf3f355
+  Components:
+    []
+- !<SceneObject/361533cf-b26e-47e3-5f96-0fb2f0ca1d4b>
+  PrefabRemaps:
+    []
+  Name: RightHandMiddle1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.004708, y: 0.121812, z: 0.023664}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b7763469-64fa-4fa4-70cb-e7bc3a3e8e93
+  Components:
+    []
+- !<AssetImportMetadata/394d3bfe-4d28-e50f-a93f-e161c07be036>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 93509432-e45c-4153-bc63-213e95b89079
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 93509432-e45c-4153-bc63-213e95b89079
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b860488b-09e8-46d0-b2fe-7b26e0dea4b1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/39ec7fcf-f8cd-a319-ef49-ae0404c9c5b9>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c97b6a15-645f-442c-b8a1-b609b63aebbe
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c97b6a15-645f-442c-b8a1-b609b63aebbe
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c6745c8a-d137-4d4b-8188-2cdbe22e351b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/3c2f319a-785a-468d-793d-9aaa9f505105>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8901a999-a36f-4aa0-9b6b-fa4228c8a5aa
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8901a999-a36f-4aa0-9b6b-fa4228c8a5aa
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5d8a42f1-99e8-40c8-9c5c-d406557289c5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/3c3ad031-42c5-431b-6b9f-aac6d9838c0e>
+  PrefabRemaps:
+    []
+  Name: Spine2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.130288, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0fa14fda-a851-4201-607b-17f15381fe06
+    - !<own> 71558ebb-4ce1-476a-444e-75d54c941a2c
+    - !<own> 1a792b0d-548a-4a31-5085-59d9db664534
+  Components:
+    []
+- !<SceneObject/3cc16d58-c073-4c19-7431-ae70c9a74729>
+  PrefabRemaps:
+    []
+  Name: LeftHandMiddle1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.005135, y: 0.121782, z: 0.023723}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> edb1264f-87d4-40a1-53da-35d7c79209b6
+  Components:
+    []
+- !<AssetImportMetadata/403c2056-d91d-8cc4-90d6-5cfe9f575b95>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6f4cc447-c259-4826-9437-350bcaa8a805
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6f4cc447-c259-4826-9437-350bcaa8a805
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c564008d-3b18-4655-ad2b-263708cd33b8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/440e95e5-768d-490d-51f7-a746fd0e74cc>
+  PrefabRemaps:
+    []
+  Name: RightToeBase
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.148822, z: 0.000000}
+    Rotation: {x: 32.535702, y: 8.375812, z: -0.000038}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 23297127-9c20-4f2e-70f2-b1468513ede8
+  Components:
+    []
+- !<SceneObject/4fe0bbc4-2aee-43f3-53f0-974876a2722b>
+  PrefabRemaps:
+    []
+  Name: LeftHandIndex2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.001687, y: 0.043202, z: 0.003305}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b7741357-0b22-4ce9-6db4-e4a9a199040f
+  Components:
+    []
+- !<AssetImportMetadata/53e13514-58f8-8eab-4ece-81ef2111cf9e>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7c3ebafa-ffd3-4b8f-9482-c63f0ba9e50e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7c3ebafa-ffd3-4b8f-9482-c63f0ba9e50e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 222af0a0-3e0a-41ed-9254-6008bfec2416
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/54ea14ef-a460-53f6-0923-fb23570e6545>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 162000a7-d83a-4aa6-8af8-57b2e6179072
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 162000a7-d83a-4aa6-8af8-57b2e6179072
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> be446466-f530-4efd-9590-e2d89b482eb9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/5d370358-f631-482c-93e6-66a93d5a16d0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 11c9772f-8aae-479e-bb92-f360f18901f2
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/5d8a42f1-99e8-40c8-9c5c-d406557289c5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a41b11c0-f12e-44f1-9882-4726c7dd93bb
+  ExportUid: 000617e3-14d6-a211-0000-0000002f3e38
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/5e004118-7609-407f-8fc8-1a4ae8c2889c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 005d48f3-1e20-4e0e-979d-4ed66260beeb
+  ExportUid: 000617e3-14d6-9f47-0000-0000002f3d83
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/5fa26629-1cbd-4dac-6999-086b4e530877>
+  PrefabRemaps:
+    []
+  Name: LeftHandThumb2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.013544, y: 0.026254, z: 0.024416}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> dcee31fb-1ede-44ba-438e-4b865753b9f5
+  Components:
+    []
+- !<TypeScriptAssetData/5fa530b0-476c-4c7b-ae39-ecd63eb9c48c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3e63c9d6-b7f0-4f27-b720-5269425918cd
+  ExportUid: 000617e3-14d6-a56f-0000-0000002f3e9a
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/6255f9ea-6120-4f8f-50eb-ee63e00089c0>
+  PrefabRemaps:
+    []
+  Name: LeftArm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.135305, z: -0.000001}
+    Rotation: {x: -10.799201, y: -0.000027, z: 2.232730}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c71b2d0f-2053-4565-6222-37ef2fe37aec
+  Components:
+    []
+- !<TypeScriptAssetData/6571cf5d-4e13-4f4c-b21f-2f8343a2c598>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: fe5e0e49-0f87-4273-ae56-9fa050aaa593
+  ExportUid: 000617e3-14d6-a7c5-0000-0000002f3edb
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/65789637-83e1-4461-710d-034bac246fe1>
+  PrefabRemaps:
+    []
+  Name: LeftToe_End
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.058481, z: 0.000000}
+    Rotation: {x: 88.539299, y: -7.158780, z: -172.604996}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<TypeScriptAssetData/666d7f35-1306-47dc-a600-94a8188d74ed>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8b0d2ab2-c07b-4615-b30e-84c09bc22018
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/67aa56da-cc23-4396-551d-4766f9655638>
+  PrefabRemaps:
+    []
+  Name: RightHandRing2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001715, y: 0.040516, z: 0.006079}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bf023378-85f6-4052-6a89-f91cb3c50631
+  Components:
+    []
+- !<TypeScriptAssetData/692d90e2-6182-482d-91ee-742534353f6a>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 43ec7d41-ef46-40bc-9e12-61ec31bd588f
+  ExportUid: 000617e3-14d6-a2fd-0000-0000002f3e48
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/69e56ec8-4ba3-4979-5ecc-17a87a12cf13>
+  PrefabRemaps:
+    []
+  Name: RightUpLeg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.083978, y: -0.053709, z: -0.004294}
+    Rotation: {x: -2.438370, y: -0.090306, z: 177.852997}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e438fd18-0d6d-4af2-5b8e-d64b4fbbf4ab
+  Components:
+    []
+- !<AssetImportMetadata/6b8282a5-76a5-f94f-6cd0-826754ee79db>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a9948ddb-88bd-48b4-ac24-248b61f85203
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a9948ddb-88bd-48b4-ac24-248b61f85203
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c3352b24-2145-4859-ae1a-6053b49b532d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/6dcfc56f-8d51-42a3-72af-f769d5354af3>
+  PrefabRemaps:
+    []
+  Name: LeftHandMiddle3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000771, y: 0.038351, z: 0.005563}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6f78e565-1e61-4359-7474-05ca94ddb2fc>
+  PrefabRemaps:
+    []
+  Name: RightHandThumb3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.006812, y: 0.041152, z: 0.021577}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/71558ebb-4ce1-476a-444e-75d54c941a2c>
+  PrefabRemaps:
+    []
+  Name: LeftShoulder
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.064935, y: 0.128963, z: -0.002310}
+    Rotation: {x: -74.732964, y: 87.979286, z: -179.762070}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6255f9ea-6120-4f8f-50eb-ee63e00089c0
+  Components:
+    []
+- !<SceneObject/723fdf85-6dcd-4837-61cc-0b136c9911d8>
+  PrefabRemaps:
+    []
+  Name: LeftHandPinky2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000640, y: 0.041177, z: 0.003042}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ed2b6bb4-1340-4a14-5abc-1f003a253324
+  Components:
+    []
+- !<ObjectPrefabAssetData/7286a3e5-0a14-45dd-baf4-6e6afec60ee8>
+  Prototype: !<ObjectOwner/4345ec1e-61f7-478f-b7c4-2f7386f7f6c1>
+    PackagePath: ""
+    objects:
+      - !<own> d5bc2570-fc28-482e-4b49-3acc8ffc352c
+- !<AssetImportMetadata/76887769-f92f-b03a-1f96-c4a5bf213675>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 722cb208-736c-49de-91c8-104b85ba886b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 722cb208-736c-49de-91c8-104b85ba886b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 83aaaf99-20d4-48d0-9240-f6755c5a6fa6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/77a3e8a2-358e-4fa1-a17e-3b97265ddd47>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 6d2462d3-8881-4217-95e4-6eb8b569de7c
+  ExportUid: 000617e3-14d6-a3d0-0000-0000002f3e5f
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/7aab7b08-4439-4592-4caa-c0b1cbd1f422>
+  PrefabRemaps:
+    []
+  Name: LeftHandPinky1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.048903, y: 0.104915, z: 0.021291}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 723fdf85-6dcd-4837-61cc-0b136c9911d8
+  Components:
+    []
+- !<SceneObject/7cd73f78-2112-4768-68f2-49bb846400cf>
+  PrefabRemaps:
+    []
+  Name: RightHandIndex2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001840, y: 0.043197, z: 0.003279}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 03a6d5fb-ca68-442a-6cf8-36dc171e7e5d
+  Components:
+    []
+- !<SceneObject/7d585a4b-3e5c-4f05-798b-b62673e3d8c3>
+  PrefabRemaps:
+    []
+  Name: Spine1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.114003, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3c3ad031-42c5-431b-6b9f-aac6d9838c0e
+  Components:
+    []
+- !<SceneObject/81073c6c-d4cc-4947-52a9-d854835c564e>
+  PrefabRemaps:
+    []
+  Name: LeftHand
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000621, y: 0.226059, z: 0.000660}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e7496ccb-dcf7-458d-5cc2-7a4edc183974
+    - !<own> e9e72bd5-ab4f-4a5d-52b6-5e1cb4b66c2f
+    - !<own> 3cc16d58-c073-4c19-7431-ae70c9a74729
+    - !<own> 257907e4-6d9d-4c75-4453-db458ea7aec3
+    - !<own> 7aab7b08-4439-4592-4caa-c0b1cbd1f422
+  Components:
+    []
+- !<TypeScriptAssetData/8275f588-f5b9-41dd-8cb9-f9a36a87a52d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 479f5cd6-9d3d-41f0-80fc-16ea6b1cfe59
+  ExportUid: 000617e3-14d6-a439-0000-0000002f3e6e
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/83aaaf99-20d4-48d0-9240-f6755c5a6fa6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 11841874-4673-456a-9ac4-d7a4d2ae9a87
+  ExportUid: 000617e3-14d6-a6e2-0000-0000002f3ecb
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/866c2dc1-b44d-4146-ac71-a698daf8b635>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: e47834b1-9f3a-4db2-b74c-37b7c18a4e15
+  ExportUid: 000617e3-14d6-a28e-0000-0000002f3e41
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/8bec9276-cedb-4706-73a0-40a39fe06620>
+  PrefabRemaps:
+    []
+  Name: RightHand
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000008, y: 0.226069, z: 0.000562}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b74d440d-1f2a-481e-7869-40fb78cac138
+    - !<own> f2c3dbf5-c412-4de4-5405-cb259dbbf38c
+    - !<own> 361533cf-b26e-47e3-5f96-0fb2f0ca1d4b
+    - !<own> 98403495-e9bb-4dc8-7098-267aa3c18004
+    - !<own> a71a8831-641a-46c7-475e-965b134e68d9
+  Components:
+    []
+- !<AssetImportMetadata/8c6230fb-72fd-36a8-08ee-9a6d1fd252ba>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 30d5e756-b002-4595-96a4-19464e989af2
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 30d5e756-b002-4595-96a4-19464e989af2
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 866c2dc1-b44d-4146-ac71-a698daf8b635
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/8d0ce959-c143-4e16-aee4-ca060b5fd042>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1beb3d45-bb69-4ae0-bb52-4c56e58b900f
+  ExportUid: 000617e3-14d6-a0bc-0000-0000002f3e23
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/90b01e3e-9348-4fbc-4172-3a014dd0fb9a>
+  PrefabRemaps:
+    []
+  Name: RightFoot
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000001, y: 0.430351, z: -0.000000}
+    Rotation: {x: 59.199100, y: -11.774203, z: 0.000157}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 440e95e5-768d-490d-51f7-a746fd0e74cc
+  Components:
+    []
+- !<AssetImportMetadata/91b2e8d4-6803-f9be-3fa5-4d07de702730>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 77432bb1-329f-4060-8bb7-46e0038b18e1
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 77432bb1-329f-4060-8bb7-46e0038b18e1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 6571cf5d-4e13-4f4c-b21f-2f8343a2c598
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/920c88ca-be37-0d88-2463-753cfa2d310d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> adb47781-cfda-4e59-8bd5-18d554ac3909
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> adb47781-cfda-4e59-8bd5-18d554ac3909
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 77a3e8a2-358e-4fa1-a17e-3b97265ddd47
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/921f1e49-8339-d475-ca22-7b10625fc31b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 65f03312-2d5e-430b-bdfa-11e52d6ad43b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 65f03312-2d5e-430b-bdfa-11e52d6ad43b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 692d90e2-6182-482d-91ee-742534353f6a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/925bf6f4-acbe-443e-6ee2-81a17cf3f355>
+  PrefabRemaps:
+    []
+  Name: LeftUpLeg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.083977, y: -0.053708, z: -0.004394}
+    Rotation: {x: -2.333330, y: 0.079300, z: -177.852005}
+    Scale: {x: 0.999943, y: 1.000000, z: 0.999921}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d66aa0a4-28aa-45a4-6078-8593445ed1dd
+  Components:
+    []
+- !<SceneObject/93106c18-b53a-4a21-4286-2b254abe3fb1>
+  PrefabRemaps:
+    []
+  Name: RightHandThumb2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.013458, y: 0.026316, z: 0.024403}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6f78e565-1e61-4359-7474-05ca94ddb2fc
+  Components:
+    []
+- !<SceneObject/95e6aaa3-d62b-4874-440a-334022096e42>
+  PrefabRemaps:
+    []
+  Name: RightHandMiddle3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000906, y: 0.038351, z: 0.005544}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/98403495-e9bb-4dc8-7098-267aa3c18004>
+  PrefabRemaps:
+    []
+  Name: RightHandRing1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.023800, y: 0.117537, z: 0.021247}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 67aa56da-cc23-4396-551d-4766f9655638
+  Components:
+    []
+- !<TypeScriptAssetData/98540bc5-2400-4081-b46b-8b81d9fac0bb>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a35e4470-5885-4e19-94c2-0d6e28b4c1f4
+  ExportUid: 000617e3-14d6-9ed2-0000-0000002f3d24
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<ObjectTracking3D/9a2a9518-819d-4ca0-6064-213dd576d8a7>
+  PrefabRemaps:
+    []
+  Name: Object Tracking 3D
+  Enabled: true
+  ObjectIndex: 0
+  TrackingMode: PoseOnly
+  TrackPosition: true
+  TrackingAsset: !<reference> a50d8fe4-b026-4143-b593-25e59fea4dc2
+  AttachmentLabels:
+    - LeftHandThumb1
+    - LeftHandRing2
+    - RightHandPinky1
+    - LeftHandRing1
+    - Spine
+    - RightHandThumb1
+    - Spine1
+    - LeftHand
+    - LeftHandThumb3
+    - RightUpLeg
+    - LeftUpLeg
+    - Neck
+    - LeftShoulder
+    - RightHandIndex3
+    - RightArm
+    - RightHandIndex1
+    - Spine2
+    - RightHand
+    - LeftArm
+    - RightHandMiddle2
+    - RightLeg
+    - Head
+    - LeftForeArm
+    - RightFoot
+    - LeftHandThumb2
+    - LeftHandIndex1
+    - LeftHandIndex2
+    - LeftHandMiddle3
+    - LeftFoot
+    - Hips
+    - RightHandPinky3
+    - LeftHandPinky2
+    - RightHandThumb2
+    - RightHandPinky2
+    - RightHandMiddle1
+    - LeftHandIndex3
+    - RightHandIndex2
+    - RightHandRing1
+    - LeftHandPinky3
+    - LeftHandMiddle1
+    - RightToeBase
+    - LeftHandRing3
+    - RightHandRing2
+    - RightShoulder
+    - RightHandMiddle3
+    - LeftHandMiddle2
+    - RightForeArm
+    - RightHandThumb3
+    - LeftHandPinky1
+    - RightHandRing3
+    - LeftLeg
+    - LeftToeBase
+  AttachedObjects:
+    - !<reference> e7496ccb-dcf7-458d-5cc2-7a4edc183974
+    - !<reference> b6eeff7a-d2ac-42ff-6c8d-46bdd2df0a68
+    - !<reference> a71a8831-641a-46c7-475e-965b134e68d9
+    - !<reference> 257907e4-6d9d-4c75-4453-db458ea7aec3
+    - !<reference> 310c5cf8-bbb7-4e28-5107-890be7ff9208
+    - !<reference> b74d440d-1f2a-481e-7869-40fb78cac138
+    - !<reference> 7d585a4b-3e5c-4f05-798b-b62673e3d8c3
+    - !<reference> 81073c6c-d4cc-4947-52a9-d854835c564e
+    - !<reference> dcee31fb-1ede-44ba-438e-4b865753b9f5
+    - !<reference> 925bf6f4-acbe-443e-6ee2-81a17cf3f355
+    - !<reference> 69e56ec8-4ba3-4979-5ecc-17a87a12cf13
+    - !<reference> 0fa14fda-a851-4201-607b-17f15381fe06
+    - !<reference> 71558ebb-4ce1-476a-444e-75d54c941a2c
+    - !<reference> 03a6d5fb-ca68-442a-6cf8-36dc171e7e5d
+    - !<reference> fae0b65c-8626-4d0d-6b2c-0afe1e2638c2
+    - !<reference> f2c3dbf5-c412-4de4-5405-cb259dbbf38c
+    - !<reference> 3c3ad031-42c5-431b-6b9f-aac6d9838c0e
+    - !<reference> 8bec9276-cedb-4706-73a0-40a39fe06620
+    - !<reference> 6255f9ea-6120-4f8f-50eb-ee63e00089c0
+    - !<reference> b7763469-64fa-4fa4-70cb-e7bc3a3e8e93
+    - !<reference> d66aa0a4-28aa-45a4-6078-8593445ed1dd
+    - !<reference> e3939253-b16c-4091-7c92-28cf262069ff
+    - !<reference> c71b2d0f-2053-4565-6222-37ef2fe37aec
+    - !<reference> e23a2593-6534-4d1d-6764-691fd59a45f9
+    - !<reference> 5fa26629-1cbd-4dac-6999-086b4e530877
+    - !<reference> e9e72bd5-ab4f-4a5d-52b6-5e1cb4b66c2f
+    - !<reference> 4fe0bbc4-2aee-43f3-53f0-974876a2722b
+    - !<reference> 6dcfc56f-8d51-42a3-72af-f769d5354af3
+    - !<reference> 90b01e3e-9348-4fbc-4172-3a014dd0fb9a
+    - !<reference> 32b84a96-ab97-434a-42d6-b2ee22635775
+    - !<reference> b8c0ce2d-7026-4284-5042-053a49227bee
+    - !<reference> 723fdf85-6dcd-4837-61cc-0b136c9911d8
+    - !<reference> 93106c18-b53a-4a21-4286-2b254abe3fb1
+    - !<reference> 327c6f5f-e981-47ea-781a-bbfc832ada5c
+    - !<reference> 361533cf-b26e-47e3-5f96-0fb2f0ca1d4b
+    - !<reference> b7741357-0b22-4ce9-6db4-e4a9a199040f
+    - !<reference> 7cd73f78-2112-4768-68f2-49bb846400cf
+    - !<reference> 98403495-e9bb-4dc8-7098-267aa3c18004
+    - !<reference> ed2b6bb4-1340-4a14-5abc-1f003a253324
+    - !<reference> 3cc16d58-c073-4c19-7431-ae70c9a74729
+    - !<reference> 1c931aac-0787-4878-7095-eb49a03d87b3
+    - !<reference> 9cd5aaff-910a-47f4-4592-f40d737ca6ba
+    - !<reference> 67aa56da-cc23-4396-551d-4766f9655638
+    - !<reference> 1a792b0d-548a-4a31-5085-59d9db664534
+    - !<reference> 95e6aaa3-d62b-4874-440a-334022096e42
+    - !<reference> edb1264f-87d4-40a1-53da-35d7c79209b6
+    - !<reference> ea14a169-f7da-48f0-5df9-84d52e986613
+    - !<reference> 6f78e565-1e61-4359-7474-05ca94ddb2fc
+    - !<reference> 7aab7b08-4439-4592-4caa-c0b1cbd1f422
+    - !<reference> bf023378-85f6-4052-6a89-f91cb3c50631
+    - !<reference> e438fd18-0d6d-4af2-5b8e-d64b4fbbf4ab
+    - !<reference> 440e95e5-768d-490d-51f7-a746fd0e74cc
+- !<SceneObject/9cd5aaff-910a-47f4-4592-f40d737ca6ba>
+  PrefabRemaps:
+    []
+  Name: LeftHandRing3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.001632, y: 0.039518, z: 0.008226}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<AssetImportMetadata/a020a26c-0af4-9725-948c-e03374395f12>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4446ee86-36a9-493d-a4b9-85fdc5c3c23e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4446ee86-36a9-493d-a4b9-85fdc5c3c23e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> f4740048-293b-4d57-ac22-f5c15fb2d2cf
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a0405160-4a20-ff21-e84a-485d9fcb9307>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9d774513-a70b-418f-953d-51ac0553e369
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9d774513-a70b-418f-953d-51ac0553e369
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 8d0ce959-c143-4e16-aee4-ca060b5fd042
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a2040dbf-5ae6-b2c0-9ba1-4df3bca65c9d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4c2a2875-bc9f-4549-8fae-2f2abee4ef76
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4c2a2875-bc9f-4549-8fae-2f2abee4ef76
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b5f37dc7-bdcd-40a0-a43c-750393fdda2b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/a71a8831-641a-46c7-475e-965b134e68d9>
+  PrefabRemaps:
+    []
+  Name: RightHandPinky1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.049270, y: 0.104751, z: 0.021252}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 327c6f5f-e981-47ea-781a-bbfc832ada5c
+  Components:
+    []
+- !<TypeScriptAssetData/a85bc20e-8c17-4d58-816c-8360c5e4aa72>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: fe5a205e-c1ce-46c0-bfed-4dc4c3dcd9ea
+  ExportUid: 000617e3-14d6-a36c-0000-0000002f3e54
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/ae8aa566-3520-4249-494d-16f417bc73e5>
+  PrefabRemaps:
+    []
+  Name: Skeleton
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000207, y: -0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 32b84a96-ab97-434a-42d6-b2ee22635775
+  Components:
+    []
+- !<AssetImportMetadata/af452193-2507-19d2-02f5-0b7c579d9a6c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f363b369-2fe0-4f15-9275-4ebf0c252535
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f363b369-2fe0-4f15-9275-4ebf0c252535
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 8275f588-f5b9-41dd-8cb9-f9a36a87a52d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b5f37dc7-bdcd-40a0-a43c-750393fdda2b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d1fb7075-0565-4732-9025-bc85d4687f98
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/b6eeff7a-d2ac-42ff-6c8d-46bdd2df0a68>
+  PrefabRemaps:
+    []
+  Name: LeftHandRing2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.001572, y: 0.040519, z: 0.006096}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9cd5aaff-910a-47f4-4592-f40d737ca6ba
+  Components:
+    []
+- !<SceneObject/b74d440d-1f2a-481e-7869-40fb78cac138>
+  PrefabRemaps:
+    []
+  Name: RightHandThumb1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.035318, y: 0.035857, z: 0.030784}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 93106c18-b53a-4a21-4286-2b254abe3fb1
+  Components:
+    []
+- !<TypeScriptAssetData/b768ecba-9587-4265-a1e7-a78bce59cd87>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 39cc037b-4391-41fd-b960-0dc38beb3837
+  ExportUid: 000617e3-14d6-9be3-0000-0000002f3af0
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/b7741357-0b22-4ce9-6db4-e4a9a199040f>
+  PrefabRemaps:
+    []
+  Name: LeftHandIndex3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.001736, y: 0.038878, z: 0.004205}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b7763469-64fa-4fa4-70cb-e7bc3a3e8e93>
+  PrefabRemaps:
+    []
+  Name: RightHandMiddle2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.003808, y: 0.050817, z: 0.008375}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 95e6aaa3-d62b-4874-440a-334022096e42
+  Components:
+    []
+- !<TypeScriptAssetData/b860488b-09e8-46d0-b2fe-7b26e0dea4b1>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 57840dac-655b-4eeb-bb71-cdb98b4b3b59
+  ExportUid: 000617e3-14d6-a75a-0000-0000002f3ed4
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/b8c0ce2d-7026-4284-5042-053a49227bee>
+  PrefabRemaps:
+    []
+  Name: RightHandPinky3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000042, y: 0.037234, z: 0.007098}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<TypeScriptAssetData/be446466-f530-4efd-9590-e2d89b482eb9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f7482397-6102-42aa-8232-a2d25760cf18
+  ExportUid: 000617e3-14d6-a60c-0000-0000002f3eb0
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/bf023378-85f6-4052-6a89-f91cb3c50631>
+  PrefabRemaps:
+    []
+  Name: RightHandRing3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001771, y: 0.039517, z: 0.008208}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<TypeScriptAssetData/c3352b24-2145-4859-ae1a-6053b49b532d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 87e81674-d339-40c6-9da1-079f91fa5d54
+  ExportUid: 000617e3-14d6-a835-0000-0000002f3ee2
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/c564008d-3b18-4655-ad2b-263708cd33b8>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f007d597-baa2-406a-91a5-5821564d7954
+  ExportUid: 000617e3-14d6-a674-0000-0000002f3ebe
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/c6745c8a-d137-4d4b-8188-2cdbe22e351b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: bae94b27-1c15-48da-8f14-aba730be3f2c
+  ExportUid: 000617e3-14d6-a8a9-0000-0000002f3ee9
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/c71b2d0f-2053-4565-6222-37ef2fe37aec>
+  PrefabRemaps:
+    []
+  Name: LeftForeArm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.248449, z: 0.000001}
+    Rotation: {x: -5.186020, y: 0.000052, z: 2.701650}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 81073c6c-d4cc-4947-52a9-d854835c564e
+  Components:
+    []
+- !<AssetImportMetadata/cad8c49a-a9d3-d4e3-0f7e-04466330cf44>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 04387826-b190-4d78-8af2-5827ddc06268
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 04387826-b190-4d78-8af2-5827ddc06268
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 666d7f35-1306-47dc-a600-94a8188d74ed
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/cc5ad7fc-c9b9-4fd8-9fcf-affd7b4fd4c3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 48c6eb09-5658-4a24-b9ae-97012c9183bd
+  ExportUid: 000617e3-14d6-a1ac-0000-0000002f3e31
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/cf936032-e377-40f1-588a-8ac405bedf68>
+  PrefabRemaps:
+    []
+  Name: HeadTop_End
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001311, y: 0.208203, z: 0.054171}
+    Rotation: {x: -0.000120, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<AssetImportMetadata/d2416931-c7fd-30a2-7e52-1936c5e7b3ac>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 32d31d1e-ae48-48c8-8e75-9f6f0440bf53
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 32d31d1e-ae48-48c8-8e75-9f6f0440bf53
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> d9e9a05e-37a0-4595-b940-6d5123ef2175
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/d5bc2570-fc28-482e-4b49-3acc8ffc352c>
+  PrefabRemaps:
+    []
+  Name: 3D Body Tracking 1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 91.851700, y: -50.000000, z: -100.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ae8aa566-3520-4249-494d-16f417bc73e5
+  Components:
+    - !<own> 9a2a9518-819d-4ca0-6064-213dd576d8a7
+- !<SceneObject/d66aa0a4-28aa-45a4-6078-8593445ed1dd>
+  PrefabRemaps:
+    []
+  Name: LeftLeg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.456518, z: 0.000000}
+    Rotation: {x: 0.674092, y: 0.002711, z: -2.079030}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e23a2593-6534-4d1d-6764-691fd59a45f9
+  Components:
+    []
+- !<AssetImportMetadata/d7139e0b-493b-2e48-0b4a-3933532e7fb4>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9f0e03c2-e7b3-40b4-a352-28f9b85be346
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9f0e03c2-e7b3-40b4-a352-28f9b85be346
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5fa530b0-476c-4c7b-ae39-ecd63eb9c48c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/d815b47e-5352-4264-addd-7f070125bbd1>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: de5596ea-8e4b-4e18-ad1d-2f56d3d48398
+  ExportUid: 000617e3-14d6-a49e-0000-0000002f3e7d
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/d9e9a05e-37a0-4595-b940-6d5123ef2175>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 81d5b712-7fac-44b1-bf36-bec59cd4d3ae
+  ExportUid: 000617e3-14d6-a02c-0000-0000002f3e0d
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/dcee31fb-1ede-44ba-438e-4b865753b9f5>
+  PrefabRemaps:
+    []
+  Name: LeftHandThumb3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.006951, y: 0.041116, z: 0.021605}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/e23a2593-6534-4d1d-6764-691fd59a45f9>
+  PrefabRemaps:
+    []
+  Name: LeftFoot
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.430324, z: -0.000000}
+    Rotation: {x: 59.081306, y: 11.791101, z: -0.000465}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1c931aac-0787-4878-7095-eb49a03d87b3
+  Components:
+    []
+- !<SceneObject/e3939253-b16c-4091-7c92-28cf262069ff>
+  PrefabRemaps:
+    []
+  Name: Head
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.073235, z: 0.018547}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> cf936032-e377-40f1-588a-8ac405bedf68
+  Components:
+    []
+- !<SceneObject/e438fd18-0d6d-4af2-5b8e-d64b4fbbf4ab>
+  PrefabRemaps:
+    []
+  Name: RightLeg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.456488, z: 0.000000}
+    Rotation: {x: 0.480889, y: 0.000482, z: 2.079070}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 90b01e3e-9348-4fbc-4172-3a014dd0fb9a
+  Components:
+    []
+- !<SceneObject/e7496ccb-dcf7-458d-5cc2-7a4edc183974>
+  PrefabRemaps:
+    []
+  Name: LeftHandThumb1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.035436, y: 0.035715, z: 0.030810}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5fa26629-1cbd-4dac-6999-086b4e530877
+  Components:
+    []
+- !<SceneObject/e9e72bd5-ab4f-4a5d-52b6-5e1cb4b66c2f>
+  PrefabRemaps:
+    []
+  Name: LeftHandIndex1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.030829, y: 0.123350, z: 0.032947}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4fe0bbc4-2aee-43f3-53f0-974876a2722b
+  Components:
+    []
+- !<SceneObject/ea14a169-f7da-48f0-5df9-84d52e986613>
+  PrefabRemaps:
+    []
+  Name: RightForeArm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000001, y: 0.248445, z: -0.000001}
+    Rotation: {x: -5.145579, y: 0.000018, z: -2.995760}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8bec9276-cedb-4706-73a0-40a39fe06620
+  Components:
+    []
+- !<SceneObject/ed2b6bb4-1340-4a14-5abc-1f003a253324>
+  PrefabRemaps:
+    []
+  Name: LeftHandPinky3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000173, y: 0.037230, z: 0.007116}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/edb1264f-87d4-40a1-53da-35d7c79209b6>
+  PrefabRemaps:
+    []
+  Name: LeftHandMiddle2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.003630, y: 0.050825, z: 0.008402}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6dcfc56f-8d51-42a3-72af-f769d5354af3
+  Components:
+    []
+- !<AssetImportMetadata/edf8d8fc-b925-9191-e2e9-e45dcf0572d6>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8843f532-c512-4445-aec1-d0d63fadb8a3
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8843f532-c512-4445-aec1-d0d63fadb8a3
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5d370358-f631-482c-93e6-66a93d5a16d0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/f2113a99-dff2-1f10-6a91-a8d460a31a13>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c2e47dd3-fbfb-4b28-be90-eb63f730fee4
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c2e47dd3-fbfb-4b28-be90-eb63f730fee4
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> a85bc20e-8c17-4d58-816c-8360c5e4aa72
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/f2c3dbf5-c412-4de4-5405-cb259dbbf38c>
+  PrefabRemaps:
+    []
+  Name: RightHandIndex1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.030398, y: 0.123477, z: 0.032880}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7cd73f78-2112-4768-68f2-49bb846400cf
+  Components:
+    []
+- !<TypeScriptAssetData/f4740048-293b-4d57-ac22-f5c15fb2d2cf>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 50ce4a4c-bb75-45fd-a963-5b330a192147
+  ExportUid: 000617e3-14d6-a13b-0000-0000002f3e2a
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/f7719178-9f67-dc65-de37-4765fdf27d6c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8d158cf8-0c6a-4630-b0c1-07fcaac96914
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8d158cf8-0c6a-4630-b0c1-07fcaac96914
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 02125049-be90-42bd-85f8-e3b285515d91
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/fae0b65c-8626-4d0d-6b2c-0afe1e2638c2>
+  PrefabRemaps:
+    []
+  Name: RightArm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000001, y: 0.135305, z: -0.000001}
+    Rotation: {x: -10.821201, y: -0.000046, z: -2.071450}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ea14a169-f7da-48f0-5df9-84d52e986613
+  Components:
+    []
+- !<AssetImportMetadata/fd12fdb6-684e-c358-fb36-283e90731df2>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 1230d5fa-a938-4eec-a849-6629277fb809
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 1230d5fa-a938-4eec-a849-6629277fb809
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> cc5ad7fc-c9b9-4fd8-9fcf-affd7b4fd4c3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

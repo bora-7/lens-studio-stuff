@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1a84e3df-5732-4677-8a76-b0975f9db234: 30975392-b14c-4d93-a289-8c3855f935b6/6fea18d797cd1eae2720e840b30b696b/Data/warning_icon.png
+  Assets:
+    - !<FileTexture/1a84e3df-5732-4677-8a76-b0975f9db234>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 6fea18d797cd1eae2720e840b30b696b
+  FileHash: d80a02518563acf043c2866d20cc2c49
+  NativePackageItems:
+    []

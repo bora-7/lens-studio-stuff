@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    798e43ff-5e40-4eda-9785-7cae5ba9f458: 9073daa0-4140-48e5-867e-c809f37adc8e/5abbf7924d545dcd6eebca3be04a28a0/Data/tutorial_BG_mask.png
+  Assets:
+    - !<FileTexture/798e43ff-5e40-4eda-9785-7cae5ba9f458>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 468
+        Height: 468
+  SourceHash: 5abbf7924d545dcd6eebca3be04a28a0
+  FileHash: dce29ac1a146fe2d0f19dcd1f4b7ce4f
+  NativePackageItems:
+    []

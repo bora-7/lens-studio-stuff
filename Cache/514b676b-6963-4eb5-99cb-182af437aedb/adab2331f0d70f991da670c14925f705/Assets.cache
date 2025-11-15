@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8bc70991-6af5-4de8-9322-6b0b4cbb1eb2: 514b676b-6963-4eb5-99cb-182af437aedb/adab2331f0d70f991da670c14925f705/Data/Human_Plastic_Matcap.jpg
+  Assets:
+    - !<FileTexture/8bc70991-6af5-4de8-9322-6b0b4cbb1eb2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: adab2331f0d70f991da670c14925f705
+  FileHash: 42493cbc105ad3ecb0dc479764945a08
+  NativePackageItems:
+    []

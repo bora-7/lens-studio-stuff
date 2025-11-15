@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1af52b91-52b2-45e0-b4da-96d70feea9db: ca4a6bcc-81a3-4161-b671-bee5075e8870/b56a50bd5a0d5e8a22fcf348c5c86eb4/Data/U_Turn_Icon.png
+  Assets:
+    - !<FileTexture/1af52b91-52b2-45e0-b4da-96d70feea9db>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 512
+  SourceHash: b56a50bd5a0d5e8a22fcf348c5c86eb4
+  FileHash: 2bb131352a0e182f07e011130afe3b23
+  NativePackageItems:
+    []

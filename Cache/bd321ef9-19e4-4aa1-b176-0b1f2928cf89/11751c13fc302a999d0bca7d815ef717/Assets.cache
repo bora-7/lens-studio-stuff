@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    b0172ba8-88ed-4923-ac8b-9203c5b7a057: bd321ef9-19e4-4aa1-b176-0b1f2928cf89/11751c13fc302a999d0bca7d815ef717/Data/pace_warning.png
+  Assets:
+    - !<FileTexture/b0172ba8-88ed-4923-ac8b-9203c5b7a057>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 168
+        Height: 180
+  SourceHash: 11751c13fc302a999d0bca7d815ef717
+  FileHash: 4070991b2f28db9c7e280e13d446221f
+  NativePackageItems:
+    []

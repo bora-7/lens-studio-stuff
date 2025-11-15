@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    4e19db77-7f17-4225-9588-ee0131e1cf0e: f663fe36-cc0a-4de8-bce9-93327775cc79/b286129e7c26f3108e4d9fbd937b472d/Data/Holo_Verical_Line.mesh
+  Assets:
+    - !<FileMesh/4e19db77-7f17-4225-9588-ee0131e1cf0e>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 44
+        Vertices: 56
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 18.847948, y: 5.595861, z: 1.524166}
+  SourceHash: b286129e7c26f3108e4d9fbd937b472d
+  FileHash: e270bca9b90c8ecc0e7fdbb448034cab
+  NativePackageItems:
+    []

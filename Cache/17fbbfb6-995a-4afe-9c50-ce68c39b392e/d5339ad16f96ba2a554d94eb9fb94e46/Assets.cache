@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e4ac05fb-51fb-4bc1-af80-d56281fdd694: 17fbbfb6-995a-4afe-9c50-ce68c39b392e/d5339ad16f96ba2a554d94eb9fb94e46/Data/iconV.png
+  Assets:
+    - !<FileTexture/e4ac05fb-51fb-4bc1-af80-d56281fdd694>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 80
+        Height: 80
+  SourceHash: d5339ad16f96ba2a554d94eb9fb94e46
+  FileHash: 612dbe38dce42170e5ecb7cb3b5c9f87
+  NativePackageItems:
+    []

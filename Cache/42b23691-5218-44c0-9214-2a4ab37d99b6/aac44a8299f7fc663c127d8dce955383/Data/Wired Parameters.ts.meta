@@ -1,0 +1,303 @@
+- !<AssetImportMetadata/fcbbf877-2b16-445d-8e47-01090cedfe2d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7c3ebafa-ffd3-4b8f-9482-c63f0ba9e50e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7c3ebafa-ffd3-4b8f-9482-c63f0ba9e50e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 222af0a0-3e0a-41ed-9254-6008bfec2416
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings/d1acb9e6-dab3-4c82-ac0e-9b50dc2afe28> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/222af0a0-3e0a-41ed-9254-6008bfec2416>
+  SvgIcon: "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"6\" cy=\"19\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<circle cx=\"20\" cy=\"6\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<circle cx=\"25\" cy=\"25\" r=\"3\" stroke=\"#D0DAE6\" stroke-width=\"2\"/>\n<path d=\"M10.0625 14.25L15.5 10M11.5 21L19 23.5M23.1053 19L21.5 12\" stroke=\"#D0DAE6\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n</svg>\n"
+  Description: "Wired Parameters\n\nDescription:\n\nThe Custom Component  connects objects properties without scripting so that adjusting one parameter changes the other automatically.\n\nUsage:\n\nAttach the Custom Component to a SceneObject, choose the desired input and output modes, configure the required settings for each mode and specify the input start and end values."
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4c9582c3-6081-4d54-9cde-845e6a55d561
+  ExportUid: 14d46cea-c88b-49ce-a485-e0517b72f49a
+  ScriptInputsHidden:
+    bodyPrefab: true
+    editDebugSettings: false
+    fromValue: false
+    inputAbsoluteRotationCoef: false
+    inputAbsoluteRotationSO: false
+    inputAsset: false
+    inputAssetProperty: false
+    inputBlendshapeMesh: false
+    inputBlendshapeName: false
+    inputBodyLandmark: false
+    inputBodyLandmarkFrom: false
+    inputBodyLandmarkTo: false
+    inputBodyTransformAxis: false
+    inputBodyTransformProperty: false
+    inputComponent: false
+    inputComponentProperty: false
+    inputDistanceSOFrom: false
+    inputDistanceSOTo: false
+    inputFaceExpressionName: false
+    inputFaceMesh: false
+    inputHeadIndex: false
+    inputHeadLandmark: false
+    inputHeadTransformAxis: false
+    inputMode: false
+    inputSO: false
+    inputTransformAxis: false
+    inputTransformProperty: false
+    interpolation: false
+    lerp: false
+    lerpCoef: false
+    outputAnimationMixer: false
+    outputAnimationMixerFrom: false
+    outputAnimationMixerLayer: false
+    outputAnimationMixerTo: false
+    outputAsset: false
+    outputAssetFloatFrom: false
+    outputAssetFloatTo: false
+    outputAssetProperty: false
+    outputAssetRGBAFrom: false
+    outputAssetRGBATo: false
+    outputAssetRGBFrom: false
+    outputAssetRGBTo: false
+    outputAssetValue: false
+    outputAssetVec2From: false
+    outputAssetVec2To: false
+    outputAssetVec3From: false
+    outputAssetVec3To: false
+    outputAtlasFrom: false
+    outputAtlasTexture: false
+    outputAtlasTo: false
+    outputAtlasYoyo: false
+    outputBlendshapeFrom: false
+    outputBlendshapeMesh: false
+    outputBlendshapeName: false
+    outputBlendshapeTo: false
+    outputComponent: false
+    outputComponentFloatFrom: false
+    outputComponentFloatTo: false
+    outputComponentProperty: false
+    outputComponentRGBAFrom: false
+    outputComponentRGBATo: false
+    outputComponentRGBFrom: false
+    outputComponentRGBTo: false
+    outputComponentValue: false
+    outputComponentVec2From: false
+    outputComponentVec2To: false
+    outputComponentVec3From: false
+    outputComponentVec3To: false
+    outputMode: false
+    outputSO: false
+    outputTransformAxis: false
+    outputTransformAxisFrom: false
+    outputTransformAxisTo: false
+    outputTransformProperty: false
+    outputTransformValue: false
+    outputTransformVecFrom: false
+    outputTransformVecTo: false
+    printDebugStatements: false
+    printWarningStatements: false
+    toValue: false
+  ScriptTypesHidden: {}
+  DefaultScriptInputs:
+    - editDebugSettings: false
+      printDebugStatements: false
+      printWarningStatements: true
+      inputMode: 0
+      inputSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputTransformProperty: 0
+      inputTransformAxis: 0
+      inputAsset: !<reference.Asset> 00000000-0000-0000-0000-000000000000
+      inputAssetProperty: ""
+      inputComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      inputComponentProperty: ""
+      inputBodyLandmark: 0
+      inputBodyTransformProperty: 0
+      inputBodyTransformAxis: 0
+      inputHeadIndex: 0
+      inputHeadLandmark: 0
+      inputHeadTransformAxis: 0
+      inputDistanceSOFrom: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputDistanceSOTo: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputAbsoluteRotationSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      inputAbsoluteRotationCoef: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      inputBlendshapeMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      inputBlendshapeName: ""
+      inputFaceMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      inputFaceExpressionName: EyeBlinkLeft
+      inputBodyLandmarkFrom: 0
+      inputBodyLandmarkTo: 0
+      fromValue: !<float> 0.000000
+      toValue: !<float> 1.000000
+      interpolation: Linear
+      lerp: false
+      lerpCoef: !<float> 0.000000
+      outputMode: 0
+      outputSO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      outputTransformProperty: 0
+      outputTransformValue: 0
+      outputTransformAxis: 0
+      outputTransformAxisFrom: !<float> 0.000000
+      outputTransformAxisTo: !<float> 0.000000
+      outputTransformVecFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputTransformVecTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAsset: !<reference.Asset> 00000000-0000-0000-0000-000000000000
+      outputAssetProperty: ""
+      outputAssetValue: 0
+      outputAssetFloatFrom: !<float> 0.000000
+      outputAssetFloatTo: !<float> 0.000000
+      outputAssetVec2From: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputAssetVec2To: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputAssetVec3From: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetVec3To: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetRGBAFrom: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputAssetRGBATo: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputAssetRGBFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputAssetRGBTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      outputComponentProperty: ""
+      outputComponentValue: 0
+      outputComponentFloatFrom: !<float> 0.000000
+      outputComponentFloatTo: !<float> 0.000000
+      outputComponentVec2From: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputComponentVec2To: !<Vec2> {x: 0.000000, y: 0.000000}
+      outputComponentVec3From: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentVec3To: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentRGBAFrom: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputComponentRGBATo: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+      outputComponentRGBFrom: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputComponentRGBTo: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      outputBlendshapeMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      outputBlendshapeName: ""
+      outputBlendshapeFrom: !<float> 0.000000
+      outputBlendshapeTo: !<float> 0.000000
+      outputAtlasTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      outputAtlasYoyo: false
+      outputAtlasFrom: 0
+      outputAtlasTo: 0
+      outputAnimationMixer: !<reference.AnimationMixer> 00000000-0000-0000-0000-000000000000
+      outputAnimationMixerLayer: ""
+      outputAnimationMixerFrom: !<float> 0.000000
+      outputAnimationMixerTo: !<float> 0.000000
+      bodyPrefab: !<reference.ObjectPrefab> 4487f159-dc33-4cab-8a4e-c618686865ba
+  ScriptTypes:
+    - {}
+  InputLines:
+    - // @input bool editDebugSettings
+    - // @ui {"widget":"group_start", "label":"Debug Statements", "showIf":"editDebugSettings"}
+    - // @input bool printDebugStatements = "false" {"label":"Print Info"}
+    - // @input bool printWarningStatements = "true" {"label":"Print Warnings"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"separator"}
+    - // @input int inputMode = "0" {"widget":"combobox", "values":[{"label":"Transform", "value":0}, {"label":"Asset", "value":1}, {"label":"Component", "value":2}, {"label":"Body Tracking Landmark", "value":3}, {"label":"Head Tracking Landmark", "value":4}, {"label":"Distance Between Scene Objects", "value":5}, {"label":"Absolute Rotation", "value":6}, {"label":"Blendshape", "value":7}, {"label":"Face Expression", "value":8}, {"label":"Distance Body Mesh", "value":9}]}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":0}
+    - // @input SceneObject inputSO {"label":"Transform"}
+    - // @input int inputTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}
+    - // @input int inputTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}]}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":1}
+    - // @input Asset.Asset inputAsset {"label":"Asset"}
+    - // @input string inputAssetProperty {"label":"Property Name"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":2}
+    - // @input Component.Component inputComponent {"label":"Component"}
+    - // @input string inputComponentProperty {"label":"Property Name"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":3}
+    - // @input int inputBodyLandmark = "0" {"label":"Landmark", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}
+    - // @input int inputBodyTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}
+    - // @input int inputBodyTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}]}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":4}
+    - // @input int inputHeadIndex {"label":"Face Index"}
+    - // @input int inputHeadLandmark {"label":"Landmark Index", "min":0, "max":74, "step":1}
+    - // @input int inputHeadTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}]}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":5}
+    - // @input SceneObject inputDistanceSOFrom {"label":"Object"}
+    - // @input SceneObject inputDistanceSOTo {"label":"Object"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":6}
+    - // @input SceneObject inputAbsoluteRotationSO {"label":"Object"}
+    - // @input vec3 inputAbsoluteRotationCoef = "{1.0, 1.0, 1.0}" {"label":"Coefficients"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":7}
+    - // @input Component.RenderMeshVisual inputBlendshapeMesh {"label":"Mesh"}
+    - // @input string inputBlendshapeName {"label":"Blendshape Name"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":8}
+    - // @input Component.RenderMeshVisual inputFaceMesh {"label":"Face Mesh"}
+    - // @input string inputFaceExpressionName = "EyeBlinkLeft" {"label":"Expression", "widget":"combobox", "values":[{"label":"EyeBlinkLeft", "value":"EyeBlinkLeft"}, {"label":"EyeBlinkRight", "value":"EyeBlinkRight"}, {"label":"EyeSquintLeft", "value":"EyeSquintLeft"}, {"label":"EyeSquintRight", "value":"EyeSquintRight"}, {"label":"EyeDownLeft", "value":"EyeDownLeft"}, {"label":"EyeDownRight", "value":"EyeDownRight"}, {"label":"EyeInLeft", "value":"EyeInLeft"}, {"label":"EyeInRight", "value":"EyeInRight"}, {"label":"EyeOpenLeft", "value":"EyeOpenLeft"}, {"label":"EyeOpenRight", "value":"EyeOpenRight"}, {"label":"EyeOutLeft", "value":"EyeOutLeft"}, {"label":"EyeOutRight", "value":"EyeOutRight"}, {"label":"EyeUpLeft", "value":"EyeUpLeft"}, {"label":"EyeUpRight", "value":"EyeUpRight"}, {"label":"BrowsDownLeft", "value":"BrowsDownLeft"}, {"label":"BrowsDownRight", "value":"BrowsDownRight"}, {"label":"BrowsUpCenter", "value":"BrowsUpCenter"}, {"label":"BrowsUpLeft", "value":"BrowsUpLeft"}, {"label":"BrowsUpRight", "value":"BrowsUpRight"}, {"label":"JawForward", "value":"JawForward"}, {"label":"JawLeft", "value":"JawLeft"}, {"label":"JawOpen", "value":"JawOpen"}, {"label":"JawRight", "value":"JawRight"}, {"label":"MouthLeft", "value":"MouthLeft"}, {"label":"MouthRight", "value":"MouthRight"}, {"label":"MouthFrownLeft", "value":"MouthFrownLeft"}, {"label":"MouthFrownRight", "value":"MouthFrownRight"}, {"label":"MouthSmileLeft", "value":"MouthSmileLeft"}, {"label":"MouthSmileRight", "value":"MouthSmileRight"}, {"label":"MouthDimpleLeft", "value":"MouthDimpleLeft"}, {"label":"MouthDimpleRight", "value":"MouthDimpleRight"}, {"label":"MouthUpLeft", "value":"MouthUpLeft"}, {"label":"MouthUpRight", "value":"MouthUpRight"}, {"label":"UpperLipClose", "value":"UpperLipClose"}, {"label":"LowerLipClose", "value":"LowerLipClose"}, {"label":"UpperLipUpLeft", "value":"UpperLipUpLeft"}, {"label":"UpperLipUpRight", "value":"UpperLipUpRight"}, {"label":"LowerLipDownLeft", "value":"LowerLipDownLeft"}, {"label":"LowerLipDownRight", "value":"LowerLipDownRight"}, {"label":"LipsFunnel", "value":"LipsFunnel"}, {"label":"LipsPucker", "value":"LipsPucker"}, {"label":"LowerLipRaise", "value":"LowerLipRaise"}, {"label":"UpperLipRaise", "value":"UpperLipRaise"}, {"label":"Puff", "value":"Puff"}, {"label":"CheekSquintLeft", "value":"CheekSquintLeft"}, {"label":"CheekSquintRight", "value":"CheekSquintRight"}, {"label":"SneerLeft", "value":"SneerLeft"}, {"label":"SneerRight", "value":"SneerRight"}, {"label":"MouthStretchLeft", "value":"MouthStretchLeft"}, {"label":"MouthStretchRight", "value":"MouthStretchRight"}, {"label":"MouthClose", "value":"MouthClose"}]}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Input Setup", "showIf":"inputMode", "showIfValue":9}
+    - // @input int inputBodyLandmarkFrom = "0" {"label":"Landmark From", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}
+    - // @input int inputBodyLandmarkTo = "0" {"label":"Landmark To", "widget":"combobox", "values":[{"label":"Hips", "value":"0"}, {"label":"Spine", "value":"1"}, {"label":"Spine1", "value":"2"}, {"label":"Spine2", "value":"3"}, {"label":"Neck", "value":"4"}, {"label":"Head", "value":"5"}, {"label":"LeftShoulder", "value":"6"}, {"label":"LeftArm", "value":"7"}, {"label":"LeftForeArm", "value":"8"}, {"label":"LeftHand", "value":"9"}, {"label":"RightShoulder", "value":"10"}, {"label":"RightArm", "value":"11"}, {"label":"RightForeArm", "value":"12"}, {"label":"RightHand", "value":"13"}, {"label":"LeftUpLeg", "value":"14"}, {"label":"LeftLeg", "value":"15"}, {"label":"LeftFoot", "value":"16"}, {"label":"LeftToeBase", "value":"17"}, {"label":"RightUpLeg", "value":"18"}, {"label":"RightLeg", "value":"19"}, {"label":"RightFoot", "value":"20"}, {"label":"RightToeBase", "value":"21"}]}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"separator"}
+    - // @input float fromValue {"label":"Input Start Value"}
+    - // @input float toValue = "1.0" {"label":"Input End Value"}
+    - // @input string interpolation = "Linear" {"widget":"combobox", "values":[{"label":"Linear", "value":"Linear"}, {"label":"Sinusoidal In", "value":"SineIn"}, {"label":"Sinusoidal Out", "value":"SineOut"}, {"label":"Sinusoidal In Out", "value":"SineInOut"}, {"label":"Quadratic In", "value":"QuadIn"}, {"label":"Quadratic Out", "value":"QuadOut"}, {"label":"Quadratic In Out", "value":"QuadInOut"}, {"label":"Exponential In", "value":"ExpoIn"}, {"label":"Exponential Out", "value":"ExpoOut"}, {"label":"Exponential In Out", "value":"ExpoInOut"}, {"label":"Elastic In", "value":"ElasticIn"}, {"label":"Elastic Out", "value":"ElasticOut"}, {"label":"Elastic In Out", "value":"ElasticInOut"}, {"label":"Bounce In", "value":"BounceIn"}, {"label":"Bounce Out", "value":"BounceOut"}, {"label":"Bounce In Out", "value":"BounceInOut"}, {"label":"Back In", "value":"BackIn"}, {"label":"Back Out", "value":"BackOut"}, {"label":"Back In Out", "value":"BackInOut"}]}
+    - // @input bool lerp
+    - // @input float lerpCoef {"label":"Lerp Coefficient", "widget":"slider", "min":0.01, "max":1, "step":0.01, "showIf":"lerp"}
+    - // @ui {"widget":"separator"}
+    - // @input int outputMode = "0" {"widget":"combobox", "values":[{"label":"Transform", "value":0}, {"label":"Asset", "value":1}, {"label":"Component", "value":2}, {"label":"Blendshape", "value":3}, {"label":"Atlas", "value":4}, {"label":"Animation Weight", "value":5}]}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":0}
+    - // @input SceneObject outputSO {"label":"Transform"}
+    - // @input int outputTransformProperty = "0" {"label":"Property", "widget":"combobox", "values":[{"label":"World Position", "value":0}, {"label":"World Rotation", "value":1}, {"label":"World Scale", "value":2}, {"label":"Local Position", "value":3}, {"label":"Local Rotation", "value":4}, {"label":"Local Scale", "value":5}, {"label":"World Rotation Sinus", "value":6}, {"label":"Local Rotation Sinus", "value":7}]}
+    - // @input int outputTransformValue = "0" {"label":"Transform Value", "widget":"combobox", "values":[{"label":"Axis", "value":0}, {"label":"Vec3", "value":1}]}
+    - // @input int outputTransformAxis = "0" {"label":"Axis", "widget":"combobox", "values":[{"label":"X", "value":0}, {"label":"Y", "value":1}, {"label":"Z", "value":2}], "showIf":"outputTransformValue", "showIfValue":0}
+    - // @input float outputTransformAxisFrom {"label":"From", "showIf":"outputTransformValue", "showIfValue":0}
+    - // @input float outputTransformAxisTo {"label":"To", "showIf":"outputTransformValue", "showIfValue":0}
+    - // @input vec3 outputTransformVecFrom {"label":"From", "showIf":"outputTransformValue", "showIfValue":1}
+    - // @input vec3 outputTransformVecTo {"label":"To", "showIf":"outputTransformValue", "showIfValue":1}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":1}
+    - // @input Asset.Asset outputAsset {"label":"Asset"}
+    - // @input string outputAssetProperty {"label":"Property Name"}
+    - // @input int outputAssetValue = "0" {"label":"Type", "widget":"combobox", "values":[{"label":"Number", "value":0}, {"label":"Point 2D", "value":1}, {"label":"Point 3D", "value":2}, {"label":"Color RGBA", "value":3}, {"label":"Color RGB", "value":4}]}
+    - // @input float outputAssetFloatFrom {"label":"From", "showIf":"outputAssetValue", "showIfValue":0}
+    - // @input float outputAssetFloatTo {"label":"To", "showIf":"outputAssetValue", "showIfValue":0}
+    - // @input vec2 outputAssetVec2From {"label":"From", "showIf":"outputAssetValue", "showIfValue":1}
+    - // @input vec2 outputAssetVec2To {"label":"To", "showIf":"outputAssetValue", "showIfValue":1}
+    - // @input vec3 outputAssetVec3From {"label":"From", "showIf":"outputAssetValue", "showIfValue":2}
+    - // @input vec3 outputAssetVec3To {"label":"To", "showIf":"outputAssetValue", "showIfValue":2}
+    - // @input vec4 outputAssetRGBAFrom = "{1.0, 1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputAssetValue", "showIfValue":3}
+    - // @input vec4 outputAssetRGBATo = "{1.0, 1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputAssetValue", "showIfValue":3}
+    - // @input vec3 outputAssetRGBFrom = "{1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputAssetValue", "showIfValue":4}
+    - // @input vec3 outputAssetRGBTo = "{1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputAssetValue", "showIfValue":4}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":2}
+    - // @input Component.Component outputComponent {"label":"Component"}
+    - // @input string outputComponentProperty {"label":"Property Name"}
+    - // @input int outputComponentValue = "0" {"label":"Type", "widget":"combobox", "values":[{"label":"Number", "value":0}, {"label":"Point 2D", "value":1}, {"label":"Point 3D", "value":2}, {"label":"Color RGBA", "value":3}, {"label":"Color RGB", "value":4}]}
+    - // @input float outputComponentFloatFrom {"label":"From", "showIf":"outputComponentValue", "showIfValue":0}
+    - // @input float outputComponentFloatTo {"label":"To", "showIf":"outputComponentValue", "showIfValue":0}
+    - // @input vec2 outputComponentVec2From {"label":"From", "showIf":"outputComponentValue", "showIfValue":1}
+    - // @input vec2 outputComponentVec2To {"label":"To", "showIf":"outputComponentValue", "showIfValue":1}
+    - // @input vec3 outputComponentVec3From {"label":"From", "showIf":"outputComponentValue", "showIfValue":2}
+    - // @input vec3 outputComponentVec3To {"label":"To", "showIf":"outputComponentValue", "showIfValue":2}
+    - // @input vec4 outputComponentRGBAFrom = "{1.0, 1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputComponentValue", "showIfValue":3}
+    - // @input vec4 outputComponentRGBATo = "{1.0, 1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputComponentValue", "showIfValue":3}
+    - // @input vec3 outputComponentRGBFrom = "{1.0, 1.0, 1.0" {"label":"From", "widget":"color", "showIf":"outputComponentValue", "showIfValue":4}
+    - // @input vec3 outputComponentRGBTo = "{1.0, 1.0, 1.0" {"label":"To", "widget":"color", "showIf":"outputComponentValue", "showIfValue":4}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":3}
+    - // @input Component.RenderMeshVisual outputBlendshapeMesh {"label":"Mesh"}
+    - // @input string outputBlendshapeName {"label":"Blendshape Name"}
+    - // @input float outputBlendshapeFrom {"label":"From"}
+    - // @input float outputBlendshapeTo {"label":"To"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":4}
+    - // @input Asset.Texture outputAtlasTexture {"label":"Texture"}
+    - // @input bool outputAtlasYoyo {"label":"Yoyo"}
+    - // @input int outputAtlasFrom {"label":"Start Frame"}
+    - // @input int outputAtlasTo {"label":"End Frame"}
+    - // @ui {"widget":"group_end"}
+    - // @ui {"widget":"group_start", "label":"Output Setup", "showIf":"outputMode", "showIfValue":5}
+    - // @input Component.AnimationMixer outputAnimationMixer {"label":"Animation Mixer"}
+    - // @input string outputAnimationMixerLayer {"label":"Layer Name"}
+    - // @input float outputAnimationMixerFrom {"label":"Weight From"}
+    - // @input float outputAnimationMixerTo {"label":"Weight To"}
+    - // @ui {"widget":"group_end"}
+    - // @input Asset.ObjectPrefab bodyPrefab

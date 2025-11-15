@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8f9e72f8-85e5-46c8-9530-a34fe8766ef2: 512b47d8-c145-450c-95a3-ad8c4e0210e1/c01235d3d83593432822f3d3385b24cd/Data/Track_Opaticy_Dots.png
+  Assets:
+    - !<FileTexture/8f9e72f8-85e5-46c8-9530-a34fe8766ef2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: c01235d3d83593432822f3d3385b24cd
+  FileHash: ae2cf201b03bbf8af8f216e67b384adc
+  NativePackageItems:
+    []

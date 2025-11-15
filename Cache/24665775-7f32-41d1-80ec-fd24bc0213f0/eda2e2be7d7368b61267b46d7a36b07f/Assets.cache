@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e5d86452-6f7b-4db0-b9bd-27932a48024f: 24665775-7f32-41d1-80ec-fd24bc0213f0/eda2e2be7d7368b61267b46d7a36b07f/Data/Side_Double_Arrows_Tile.mesh
+  Assets:
+    - !<FileMesh/e5d86452-6f7b-4db0-b9bd-27932a48024f>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 64
+        Vertices: 124
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 15.550879, y: 12.672844, z: 1.178009}
+  SourceHash: eda2e2be7d7368b61267b46d7a36b07f
+  FileHash: 81acb2718951d8891fb641793dff71ca
+  NativePackageItems:
+    []

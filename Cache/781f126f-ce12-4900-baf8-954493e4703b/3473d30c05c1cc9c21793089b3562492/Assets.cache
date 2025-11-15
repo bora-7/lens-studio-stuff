@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    51567b10-92f3-4ea0-a519-4ae4a5690ee2: 781f126f-ce12-4900-baf8-954493e4703b/3473d30c05c1cc9c21793089b3562492/Data/Track_Tutorial_Blur.png
+  Assets:
+    - !<FileTexture/51567b10-92f3-4ea0-a519-4ae4a5690ee2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 3473d30c05c1cc9c21793089b3562492
+  FileHash: 1c41ed1b09f42345f02a9c5632b75a88
+  NativePackageItems:
+    []

@@ -1,0 +1,250 @@
+- !<AssetCache>
+  AssetFiles:
+    13bf5367-e380-42dc-8e21-e7fe136f6c38: c3d1cb20-9299-4369-ae4f-3204f247ec9f/566dac2504e980d50284fd4e32635140/Data/mbuttons.ss_graph
+  Assets:
+    - !<ShaderGraphPass/13bf5367-e380-42dc-8e21-e7fe136f6c38>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Center_N014:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatRotation_N004:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_GSplatScale_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Input1_N013:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input2_N013:
+          typeIdx: 1
+          value: 1.000000
+        Port_LODValue_N000:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N009:
+          typeIdx: 1
+          value: 0.000000
+        Port_PrevWorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_RangeMaxA_N016:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N017:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N023:
+          typeIdx: 1
+          value: 2.000000
+        Port_RangeMaxB_N016:
+          typeIdx: 1
+          value: 1.100000
+        Port_RangeMaxB_N017:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N023:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMinA_N016:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N017:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N023:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMinB_N016:
+          typeIdx: 1
+          value: 1.250000
+        Port_RangeMinB_N017:
+          typeIdx: 1
+          value: 0.700000
+        Port_RangeMinB_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Value3_N005:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N007:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N022:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N069:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N005:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N007:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N022:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N069:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Base Color
+            mType: Property
+            mName: strokeColor
+            mWidget: color
+            mHint: "Property: strokeColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Selected Color
+            mType: Property
+            mName: selectedColor
+            mWidget: color
+            mHint: "Property: selectedColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Hover
+            mType: Property
+            mName: hover
+            mWidget: slider
+            mHint: "Property: hover"
+            mMin: 0.000000
+            mMax: 2.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Mask
+            mType: Property
+            mName: baseTex
+            mWidget: texture_group
+            mHint: "Property: baseTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Icon Color
+            mType: Property
+            mName: iconColor
+            mWidget: color
+            mHint: "Property: iconColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: iconMap
+            mType: Property
+            mName: iconMap
+            mWidget: texture_group
+            mHint: "Property: iconMap"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Global Opacity
+            mType: Property
+            mName: globalOpacity
+            mWidget: slider
+            mHint: "Property: globalOpacity"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: c3d1cb20-9299-4369-ae4f-3204f247ec9f/566dac2504e980d50284fd4e32635140/Data/b01d0f7/mbuttons.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 566dac2504e980d50284fd4e32635140
+  FileHash: 9e4db4b5cc4ed754b156781cc4db201e
+  NativePackageItems:
+    []

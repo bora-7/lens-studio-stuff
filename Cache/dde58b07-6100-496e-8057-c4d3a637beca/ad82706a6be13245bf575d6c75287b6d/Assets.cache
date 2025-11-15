@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    c5d037b4-84e2-421f-bb89-91d7458fcf6b: dde58b07-6100-496e-8057-c4d3a637beca/ad82706a6be13245bf575d6c75287b6d/Data/AvenirNextLTPro-HeavyCnIt.otf
+  Assets:
+    - !<Font/c5d037b4-84e2-421f-bb89-91d7458fcf6b>
+      PackagePath: ""
+  SourceHash: ad82706a6be13245bf575d6c75287b6d
+  FileHash: b6c87a9d9426b78c1246e6a4beebf3ac
+  NativePackageItems:
+    []

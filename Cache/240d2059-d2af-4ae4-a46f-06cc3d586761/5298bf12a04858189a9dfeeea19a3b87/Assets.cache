@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e4a9462e-9d99-4616-90a6-88ca85ff1e28: 240d2059-d2af-4ae4-a46f-06cc3d586761/5298bf12a04858189a9dfeeea19a3b87/Data/Arrows_RGBA_v1.png
+  Assets:
+    - !<FileTexture/e4a9462e-9d99-4616-90a6-88ca85ff1e28>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 5298bf12a04858189a9dfeeea19a3b87
+  FileHash: 9baaea17ec12ebf9122a55ca65e1fb65
+  NativePackageItems:
+    []

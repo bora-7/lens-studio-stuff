@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    ed5905dc-9bef-4292-8ccd-de040b7d2d94: 977fec2c-e7a3-460f-b2af-2a71f93806cb/a66aaef10e4a945796a603ecd201cc08/Data/Holo_Projection_Line.mesh
+  Assets:
+    - !<FileMesh/ed5905dc-9bef-4292-8ccd-de040b7d2d94>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 28
+        Vertices: 32
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 21.523268, y: 3.183931, z: 0.651007}
+  SourceHash: a66aaef10e4a945796a603ecd201cc08
+  FileHash: acf815f3a16e822796a455e82344b147
+  NativePackageItems:
+    []
